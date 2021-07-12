@@ -1,0 +1,11 @@
+# exclude everything except relevant folders and included files
+.DS_Store
+git.json
+/
+! /event/**/
+! /story/**/
+! /quest/**/
+/quest/.DS_Store
+/story/.DS_Store
+/event/.DS_Store
+/event/git.json
