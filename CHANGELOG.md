@@ -23,6 +23,11 @@ All notable changes to this project will be documented in this file.
 
 - Die Funktion `voice` wurde integriert. Damit können innerhalb der geschichte (Story) Sprachausgaben über den Browser in die Geschichte integriert werden. So ist es möglich, den Inhalt für Menschen mit Sehbeeinträchtigungen zugänglich zu machen oder eine umfangreichere Geschichte den Spielenden verbal verkürzt zu beschreiben.
 
+### Changed
+
+- Anpassung der Story CBH2021, so dass alle Kapitel nun die `voice` Funktion nutzen. Die Umsetzung wurde für das stattfindende Event CBH2021-KPK umgesetzt, um Nutzer-Feedback zu dieser neuen Funktion zu erfragen. Die angepasste Story wird aktuell in den Events CBH2021 und in CHB2021-KPK genutzt
+
+
 ## [201-07-13] - 2021-07-13
 
 ### Changed
