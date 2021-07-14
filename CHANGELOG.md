@@ -21,10 +21,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Anpassungen im Exit Game Flug KLM427:
-  - Bugfixes durch neue Schreibweise
-  - Sundisc-Rätsel neu aufgebaut 
-  - Rechtschreibung
+- Anpassungen im Exit Game Flug KLM427: Bugfixes durch neue Schreibweise, Sundisc-Rätsel neu aufgebaut & Rechtschreibung
 
 ## [201-07-12] - 2021-07-12
 
