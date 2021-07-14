@@ -17,6 +17,14 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-07-13] - 2021-07-12
+
+### Changed
+
+- Anpassungen im Exit Game Flug KLM427:
+  - Bugfixes durch neue Schreibweise
+  - Sundisc-Rätsel neu aufgebaut 
+  - Rechtschreibung
 
 ## [201-07-12] - 2021-07-12
 
