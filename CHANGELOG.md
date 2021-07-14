@@ -17,7 +17,13 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
-## [201-07-13] - 2021-07-12
+## [201-07-14] - 2021-07-14
+
+### Added
+
+- Die Funktion `voice` wurde integriert. Damit können innerhalb der geschichte (Story) Sprachausgaben über den Browser in die Geschichte integriert werden. So ist es möglich, den Inhalt für Menschen mit Sehbeeinträchtigungen zugänglich zu machen oder eine umfangreichere Geschichte den Spielenden verbal verkürzt zu beschreiben.
+
+## [201-07-13] - 2021-07-13
 
 ### Changed
 
