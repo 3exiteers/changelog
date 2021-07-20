@@ -23,6 +23,7 @@ All notable changes to this project will be documented in this file.
 
 - Für Kapitel mit Rätseln, die keine Hinweise aufweisen, wird der Bereich in der Website nun nicht mehr angezeigt. Damit werden dem Anwender keine unnötigen oder nicht-funktionalen Bereichen auf der Website angezeigt. 
 - Aufbau eines "Rätsels" `handout001-de`, bei dem eine Bestätigung durch Eingabe von `ja` oder `yes` durch den Benutzer die Kenntnis ünber das bereitgestellte Handout abgefragt werden kann.
+- Die Funktion `feedback` wurde integriert, mit der in den Text eines Kapitels eine Umfrage eingebettet werden kann. Diese Funktion empfiehlt sich für Kapitel ohne Quest und ohne nachfolgendes Kapitel. Es können So am Ende eines Spiels Rückmeldungen von den Spielern abgefragt werden.
 
 ### Changed
 
