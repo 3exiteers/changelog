@@ -17,6 +17,18 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-07-20] - 2021-07-20
+
+### Added
+
+- Für Kapitel mit Rätseln, die keine Hinweise aufweisen, wird der Bereich in der Website nun nicht mehr angezeigt. Damit werden dem Anwender keine unnötigen oder nicht-funktionalen Bereichen auf der Website angezeigt. 
+- Aufbau eines "Rätsels" `handout001-de`, bei dem eine Bestätigung durch Eingabe von `ja` oder `yes` durch den Benutzer die Kenntnis ünber das bereitgestellte Handout abgefragt werden kann.
+
+### Changed
+
+- Alle bisherigen Rätsel-Definitionen wurden auf das neue Format umgestellt, bei dem Inhalte für die Darstellung dynamisch aus dem `content` Bereich der JDON gelesen werden. Dadurch können spätere strukturänderungen an der JSON leichte rumgesetzt werden. Dies hat derzeit Auswirkungen auf den bisherigen Bereich `body`.
+
+
 ## [201-07-14] - 2021-07-14
 
 ### Added
