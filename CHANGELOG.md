@@ -21,13 +21,13 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Für Kapitel mit Rätseln, die keine Hinweise aufweisen, wird der Bereich in der Website nun nicht mehr angezeigt. Damit werden dem Anwender keine unnötigen oder nicht-funktionalen Bereichen auf der Website angezeigt. 
-- Aufbau eines "Rätsels" `handout001-de`, bei dem eine Bestätigung durch Eingabe von `ja` oder `yes` durch den Benutzer die Kenntnis ünber das bereitgestellte Handout abgefragt werden kann.
+- Für Kapitel mit Rätseln, die keine Hinweise aufweisen, wird der Tipp-Bereich in der Website nun nicht mehr angezeigt. Damit werden dem Anwender keine unnötigen oder nicht-funktionalen Bereichen auf der Website angezeigt. 
+- Aufbau eines "Rätsels" `handout001-de`, bei dem eine Bestätigung durch Eingabe von `ja` oder `yes` durch den Benutzer die Kenntnis über das bereitgestellte Handout abgefragt werden kann.
 - Die Funktion `feedback` wurde integriert, mit der in den Text eines Kapitels eine Umfrage eingebettet werden kann. Diese Funktion empfiehlt sich für Kapitel ohne Quest und ohne nachfolgendes Kapitel. Es können So am Ende eines Spiels Rückmeldungen von den Spielern abgefragt werden.
 
 ### Changed
 
-- Alle bisherigen Rätsel-Definitionen wurden auf das neue Format umgestellt, bei dem Inhalte für die Darstellung dynamisch aus dem `content` Bereich der JDON gelesen werden. Dadurch können spätere strukturänderungen an der JSON leichte rumgesetzt werden. Dies hat derzeit Auswirkungen auf den bisherigen Bereich `body`.
+- Alle bisherigen Rätsel-Definitionen wurden auf das neue Format umgestellt, bei dem Inhalte für die Darstellung dynamisch aus dem `content` Bereich der JSON gelesen werden. Dadurch können spätere Strukturänderungen an der JSON leichter umgesetzt werden.
 
 
 ## [201-07-14] - 2021-07-14
