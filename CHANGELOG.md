@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-07-22] - 2021-07-22
+
+### Added
+
+- Es wurde ein Lobby-Modus integriert, der nach der Regsitrierung alle angemeldeten Benutzer in einem Wartebereich hält. Erst wenn ein berechtigter Nutzer das erste Kapitel für dei wartenden Spielenden freigibt, verlassen diese den Wartebereich automatisch. Es kann über die Rechte definiert werden, ob ein Event eine Lobby nutzt und ob Teams in der Lobby warten - dies kann auf Team-Ebene ein- und ausgeschaltet werden. Standardmäßig ist keine Lobby im Event aktiv. Diese Funktion ist für Events hilfreich, bei denen die Registrierung als technischer Check für den Zugriff genutzt wird und so bereits vor dem Event sichergestellt werden soll, dass alle Teilnehmer den Link und die Anmeldung erfolgreich aufrufen können.
+
 ## [201-07-20] - 2021-07-20
 
 ### Added
