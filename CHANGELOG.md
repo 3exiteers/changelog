@@ -17,11 +17,17 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-07-23] - 2021-07-23
+
+### Changed
+
+- Änderung der Darstellung des Changelogs: es werden nun `Markdown-Attribute mit ihrer HTML-Visualisierung` dargestellt.
+
 ## [201-07-22] - 2021-07-22
 
 ### Added
 
-- Es wurde ein Lobby-Modus integriert, der nach der Regsitrierung alle angemeldeten Benutzer in einem Wartebereich hält. Erst wenn ein berechtigter Nutzer das erste Kapitel für dei wartenden Spielenden freigibt, verlassen diese den Wartebereich automatisch. Es kann über die Rechte definiert werden, ob ein Event eine Lobby nutzt und ob Teams in der Lobby warten - dies kann auf Team-Ebene ein- und ausgeschaltet werden. Standardmäßig ist keine Lobby im Event aktiv. Diese Funktion ist für Events hilfreich, bei denen die Registrierung als technischer Check für den Zugriff genutzt wird und so bereits vor dem Event sichergestellt werden soll, dass alle Teilnehmer den Link und die Anmeldung erfolgreich aufrufen können.
+- Es wurde ein `Lobby-Modus` integriert, der nach der Regsitrierung alle angemeldeten Benutzer in einem Wartebereich hält. Erst wenn ein berechtigter Nutzer das erste Kapitel für die wartenden Spielenden freigibt, verlassen diese den Wartebereich automatisch und gemeinsam.
 
 ## [201-07-20] - 2021-07-20
 
@@ -51,30 +57,30 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Anpassungen im Exit Game Flug KLM427: Bugfixes durch neue Schreibweise, Sundisc-Rätsel neu aufgebaut & Rechtschreibung
+- Anpassungen im Exit Game `Flug KLM427`: Bugfixes durch neue Schreibweise, Sundisc-Rätsel neu aufgebaut & Rechtschreibung
 
 ## [201-07-12] - 2021-07-12
 
 ### Added
 
-- Aufbau des Schlüsselrätsels (ursprünglich für das CBH-Event entwickelt) im Playarea-Format umgesetzt.
+- Aufbau des Schlüsselrätsels (ursprünglich für das CBH-Event entwickelt) im `Playarea`-Format umgesetzt.
 
 ## [201-07-11] - 2021-07-11
 
 ### Changed
 
-- Die Schaltflächen 'Absenden' und 'Tipp nutzen' innerhalb eines Kapitels mit Rätsel nutzen nun zusätzlich sprechende Symbole für die jeweilige Aktion.
-- Die Eingabefelder für die Lösung nutzen nun kein Autocomplete mehr - dadurch werden im Screensharing die bisherigen Eingaben (diese und anderer) Rätsel nicht angezeigt und offenbart.
+- Die Schaltflächen 'Absenden' und 'Tipp nutzen' innerhalb eines Kapitels mit Rätsel nutzen nun zusätzlich `aussagekräftige Symbole` für die jeweilige Aktion.
+- Die Eingabefelder für die Lösung nutzen nun `kein Autovervollständigen` mehr - dadurch werden im Screensharing die bisherigen Eingaben (diese und anderer) Rätsel nicht angezeigt und offenbart.
 
 ### Fixed
 
-- Die Steuerung von Audio wurde optimiert, so dass abhängig davon, ob Audio wiedergegeben wird, das Icon korrekt dargestellt wird - dies ist durch die vom Creator steuerbare Option 'autoplay'bedingt gewesen. 
+- Die Steuerung von Audio wurde optimiert, so dass abhängig davon, ob Audio wiedergegeben wird, das Icon korrekt dargestellt wird - dies ist durch die vom Creator steuerbare Option 'autoplay'bedingt gewesen.
 
 ## [201-07-10] - 2021-07-10
 
 ### Changed
 
-- Anpassung der Registrierungsmaske, so dass anstatt eines Passwort-Felds der Font 'text-security' (https://github.com/noppa/text-security) genutzt wird. Dies hat den Vorteil, dass beim Absenden des Formulars der Browser nicht versucht ein Passwort zu sichern.
+- Anpassung der Registrierungsmaske, so dass anstatt eines Passwort-Felds der `Font 'text-security'` (https://github.com/noppa/text-security) genutzt wird. Dies hat den Vorteil, dass beim Absenden des Formulars der Browser nicht versucht ein Passwort zu sichern.
 
 ### Fixed
 
