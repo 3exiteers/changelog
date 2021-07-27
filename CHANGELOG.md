@@ -18,6 +18,13 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+
+## [201-07-27] - 2021-07-27
+
+### Added
+
+- Die Funktion ´Team zu mir holen´ wurde eine Möglichkeit für Teams geschaffen, mit der alle Teammitglieder zu dem Kapitel, in dem sich das aufrufenden Teammitglied befindet, delegiert werden können.
+
 ## [201-07-26] - 2021-07-26
 
 ### Fixed
