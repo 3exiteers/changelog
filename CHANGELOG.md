@@ -17,6 +17,13 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+
+## [201-07-26] - 2021-07-26
+
+### Fixed
+
+- Verhalten der Lobby wurde optimiert, so dass Änderungen der registrierten Teilnehmenden schneller erkannt werden. Verwaiste Sessions werden verzögert erkannt, so dass temporäre Verzögerungen oder schlechte Verbindungsleitungen der Teilnehmer ausgeglichen werden können.
+
 ## [201-07-23] - 2021-07-23
 
 ### Changed
