@@ -18,6 +18,12 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [201-07-30] - 2021-07-30
+
+### Added
+
+- Platzhalter `[fetch: ...]` implementiert, mit der ein Link in den Text gesetzt werden kann. Bei Klick auf den Link werden alle angemeldeten/registrierten Teammitglieder in das Kapitel geholt, in dem sich der aufrufende Spielende befindet. 
+
 ## [201-07-29] - 2021-07-29
 
 ### Added
