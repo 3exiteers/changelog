@@ -18,6 +18,12 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [201-07-29] - 2021-07-29
+
+### Changed
+
+- Variablen können un mit der Zeichenfolge `%%%...%%%` angegeben werden. Dies hat den Hintergrund, dass Variablen nun auch als Beschriftung für Schaltflächen in zum Beispiel #junctions genutzt werden können. Um die Komplexität von verschachtelten Angaben mit {...} zu vermeiden, wurde das neue Format ergänzend eingefügt. Dieses sollte ab sofort in allen Angaben verwendet werden. Betstehende Definitionen können erhalten bleiben.
+
 
 ## [201-07-27] - 2021-07-27
 
