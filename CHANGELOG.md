@@ -24,6 +24,10 @@ All notable changes to this project will be documented in this file.
 
 - Platzhalter `[confetti: ...]` implementiert, mit sich ein Partikelregen (Konfetti) einsetzen lässt. Diese Funktion ist speziell in Kapitel nach einer Quest oder bei Erreichen des letzten Kapitels vorgesehen.
 
+### Fixed
+
+- Bei der Funktion `playare` wurde ein Bug bei der Angabe der Rotation gefixt, der dazu führte, dass alle Elemente an Zufallsangaben rotiert wurden. Die Angabe der Rotation wird nun respektiert.
+
 ## [201-07-30] - 2021-07-30
 
 ### Added
