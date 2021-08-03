@@ -18,6 +18,12 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [201-08-03] - 2021-08-03
+
+### Added
+
+- Platzhalter `[confetti: ...]` implementiert, mit sich ein Partikelregen (Konfetti) einsetzen lässt. Diese Funktion ist speziell in Kapitel nach einer Quest oder bei Erreichen des letzten Kapitels vorgesehen.
+
 ## [201-07-30] - 2021-07-30
 
 ### Added
