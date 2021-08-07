@@ -24,6 +24,10 @@ All notable changes to this project will be documented in this file.
 
 - Die Website wurde um den Bereich `Features` erweitert. In diesem Bereich werden die Highlights des Frameworks dargestellt und kurz beschrieben.
 
+### Fixed
+
+- Die Navigation der Website wurde aktualisiert. Es wurden die Menüeinträge in der oberen Navigation, sowie im Fußbereich, namentlich angepasst und auf die aktuellen Funktionen verlinkt.
+
 ## [201-08-03] - 2021-08-03
 
 ### Added
