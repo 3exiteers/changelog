@@ -26,7 +26,7 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- Die Navigation der Website wurde aktualisiert. Es wurden die Menüeinträge in der oberen Navigation, sowie im Fußbereich, namentlich angepasst und auf die aktuellen Funktionen verlinkt.
+- Die Navigation der Website wurde aktualisiert. Es wurden die Menüeinträge in der oberen Navigation, sowie im Fußbereich, hinsichtlich der Bezeichnung angepasst und auf die aktuellen Funktionen referenziert.
 
 ## [201-08-03] - 2021-08-03
 
