@@ -22,6 +22,16 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
+- Die Webiste wurde um die Funktion `benefits`erweitert, auf der die Vorteile von digitalen Exit Games beschrieben werden.
+
+### Changed
+
+- Die Struktur und Inhalte der Website wurde aktualisiert.
+
+## [201-08-07] - 2021-08-07
+
+### Added
+
 - Die Website wurde um den Bereich `Features` erweitert. In diesem Bereich werden die Highlights des Frameworks dargestellt und kurz beschrieben.
 
 ### Changed
