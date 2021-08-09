@@ -32,7 +32,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Die Struktur und Inhalte der Website wurde aktualisiert.
+- Die Struktur und die Inhalte der Website wurden aktualisiert.
 
 ## [201-08-07] - 2021-08-07
 
