@@ -20,9 +20,15 @@ All notable changes to this project will be documented in this file.
 
 ## [201-08-08] - 2021-08-08
 
+### Changed
+
+- Die Struktur sämtlicher Stories wurde auf die neue `content`-Struktur angepasst, so dass sich alle Inhalte nun aus dieser Struktur lesen lassen. Dies ist in Vorbereitung zur Umsetzung der sogenannten `branches` erfolgt, so dass alle dargestellten Inhalte einer Seite aus dieser Struktur gelesen werden.
+
+## [201-08-08] - 2021-08-08
+
 ### Added
 
-- Die Webiste wurde um die Funktion `benefits`erweitert, auf der die Vorteile von digitalen Exit Games beschrieben werden.
+- Die Webiste wurde um die Funktion `benefits` erweitert, auf der die Vorteile von digitalen Exit Games beschrieben werden.
 
 ### Changed
 
