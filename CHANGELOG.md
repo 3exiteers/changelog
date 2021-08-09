@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
-## [201-08-08] - 2021-08-08
+## [201-08-09] - 2021-08-09
 
 ### Changed
 
