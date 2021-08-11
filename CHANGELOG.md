@@ -17,6 +17,15 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-08-11] - 2021-08-11
+
+### Added
+
+- Wir haben jetzt einen Instagram Account, besucht uns doch mal unter @3Exiteers
+
+### Changed
+
+- Änderungen am Exit Game Homeoffice, erstes Rätsel ersetzt und neue Funktionen eingearbeitet
 
 ## [201-08-09] - 2021-08-09
 
