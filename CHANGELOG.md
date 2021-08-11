@@ -26,6 +26,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Änderungen am Exit Game Homeoffice, erstes Rätsel ersetzt und neue Funktionen eingearbeitet
+- Vektorisierung der Geafik der Quest 'shiphol' 
 
 ## [201-08-09] - 2021-08-09
 
