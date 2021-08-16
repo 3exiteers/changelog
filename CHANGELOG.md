@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-08-16] - 2021-08-16
+
+### Changed
+
+- Updates und Änderungen an der Homeoffice Rätsel-Reihe 
+
 ## [201-08-12] - 2021-08-12
 
 ### Changed
