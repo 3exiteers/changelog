@@ -26,6 +26,8 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Verschiedene Quests mit neuen Handouts aktualisiert
+- Länge der Teamcodes nun über App-Konfiguration anpassbar
+- Länge der Teamcodes auf 20 Zeichen erhöht
 
 ## [201-08-16] - 2021-08-16
 
