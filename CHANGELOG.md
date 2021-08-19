@@ -17,6 +17,16 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-08-19] - 2021-08-19
+
+### Added
+
+- Die Funktion `handout` ermöglicht nun innerhalb der Story die Einbindung eines Deckblatts bzw. der ersten Seiten und Abschlußseiten. Zwischen diese Bestandteile werden die Handouts der Quests eingebettet, so dass bei Erzeugung ein in sich schlüssiges PDF generiert wird. 
+
+### Changed
+
+- Verschiedene Quests mit neuen Handouts aktualisiert
+
 ## [201-08-16] - 2021-08-16
 
 ### Changed
