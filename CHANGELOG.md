@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-08-29] - 2021-08-29
+
+### Added
+
+- Für Hinweise zu Herausforderungen wurde das Attribut `solution` (`hints` -> id -> `solution`) implementiert, mit dem ein Hinweis markiert werden kann, der die Lösung zeigt. Der Spieler wird auf diesen Umstand explizit hingweisen.
+
 ## [201-08-19] - 2021-08-19
 
 ### Added
