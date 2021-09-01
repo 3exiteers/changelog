@@ -23,6 +23,10 @@ All notable changes to this project will be documented in this file.
 
 - Die Variable `solution` wurde für Quests implementiert, bei der die erste angegebene Lösung aus dem Attribut `solutions` (die immer existieren muss) dynamisch ausgegeben wird. Ein Quest Creator erhält dadurch die Möglichkeit, einen abschließenden Hinweis mit dedr Lösung anzugeben, ohne diese anpassen zu müssen, sollte sich die Quest beziehungsweise dessen Lösung geändert hat.
 
+### Changed
+
+- Hinweis vor Anzeige eines auflösenden Hinweises optimiert, so dass der Nutzende sich der weiteren Anzeige bewusst sein sollte :)
+
 ## [201-08-29] - 2021-08-29
 
 ### Added
