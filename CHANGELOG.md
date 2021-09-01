@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-09-01] - 2021-09-01
+
+### Added
+
+- Die Variable `solution` wurde für Quests implementiert, bei der die erste angegebene Lösung aus dem Attribut `solutions` (die immer existieren muss) dynamisch ausgegeben wird. Ein Quest Creator erhält dadurch die Möglichkeit, einen abschließenden Hinweis mit dedr Lösung anzugeben, ohne diese anpassen zu müssen, sollte sich die Quest beziehungsweise dessen Lösung geändert hat.
+
 ## [201-08-29] - 2021-08-29
 
 ### Added
