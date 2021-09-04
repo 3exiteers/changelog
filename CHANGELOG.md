@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-09-04] - 2021-09-04
+
+### Added
+
+- Das Exit Game "Hackathon 2021" wurde ferig erstellt und steht die kommenden Tage für einen exklusiven Pilottest zur Verfügung.
+
 ## [201-09-01] - 2021-09-01
 
 ### Added
