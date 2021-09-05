@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-09-05] - 2021-09-05
+
+### Improved
+
+- Die Handhabung von Ausnahmesituationen (Edge cases) bei Aufruf von Events und Stories wurde verbessert und vereinheitlicht.
+
 ## [201-09-04] - 2021-09-04
 
 ### Added
