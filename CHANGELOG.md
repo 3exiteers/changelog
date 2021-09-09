@@ -21,6 +21,7 @@ All notable changes to this project will be documented in this file.
 
 ### Improved
 
+- Die Variablen innerhalbn der Inhalte (Story) werden nun zusätzlich zu den Definitionen aus den Teams und dem Event aus der Story selber ermittelt. Dabei folgt die Ersetzung der Reihenfolge `team` -> `event` -> `story`. Dieser logische Schritt ist erforderlich, um als Story Creator die eigenen Platzhalter in einer Geschichte vorgeben zu können. Event Creators können als alternative Angaben machen und sich dabei an den Variablen-Definitionen der Story orientieren.
 - Die Anzeige des Dialogs für Hinweise wurde überarbeitet, um den Bereich "bisherige Tipps" beim ersten Aufrufe konsistenter darzustellen, sollten noch keine Tipps in Anspruch genommen worden sein.
 
 ## [201-09-08] - 2021-09-08
