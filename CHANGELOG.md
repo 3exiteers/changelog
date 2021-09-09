@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-09-09] - 2021-09-09
+
+### Improved
+
+- Die Anzeige des Dialogs für Hinweise wurde überarbeitet, um den Bereich "bisherige Tipps" beim ersten Aufrufe konsistenter darzustellen, sollten noch keine Tipps in Anspruch genommen worden sein.
+
 ## [201-09-08] - 2021-09-08
 
 ### Added
