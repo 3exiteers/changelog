@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-09-08] - 2021-09-08
+
+### Added
+
+- Im Design `vfl` wurde die Hinweis-Schaltfläche `Tipps anzeigen` auf Seiten mit Herausforderungen dauerhaft im unteren rechten Bereich eingeblendet. Diese Umsetzung erfolgte auf Grund der Benutzer-Feedbacks aus dem Pilottest zum Format "Hack your way", aus dem deutlich wurde, das Hinweise unter Umständen eher in Anspruch genommen werden, wenn diese Option dem Spielenden deutlicher ist.
+
 ## [201-09-05] - 2021-09-05
 
 ### Improved
