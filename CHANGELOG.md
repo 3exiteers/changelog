@@ -17,6 +17,18 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+# [201-09-15] - 2021-09-15
+
+### Improved
+
+- Es wurden verschiedene statische Dateien auf dem Webserver implementiert, die eine optimierte Integragtion von Websiten  erlauben.
+
+## [201-09-15] - 2021-09-15
+
+### Added
+
+- Die Website ermöglicht nun eine Registrierung und Anmeldung mit einem Benutzerprofil. Dadurch könen in den nächsten Entwicklungen rollenbasierte Funktionen implementiert werden. Zudem wird über diese Profile zukünftig die An- und Abmeldung zum/vom Newsletter umgesetzt, so dass ein keine weitere Verifikation der E-Mailadresse erforderlich ist.
+ 
 ## [201-09-09] - 2021-09-09
 
 ### Improved
