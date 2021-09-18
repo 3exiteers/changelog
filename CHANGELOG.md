@@ -17,7 +17,13 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
-# [201-09-15] - 2021-09-15
+# [201-09-18] - 2021-09-18
+
+### Improved
+
+- Die Analyse von fehlerhaften Seiten aufrufen wurde optimiert, um die Stabilität des Systems gewährleisten zu können.
+
+# [201-09-17] - 2021-09-17
 
 ### Improved
 
