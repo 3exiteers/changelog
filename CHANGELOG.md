@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+# [201-10-02] - 2021-10-02
+
+### Added
+
+- Die Website und das Framework wurden um Internationalisierungs-Funktionen erweitert, die eine Übersetzung der Inhalte in andere Sprachen erlauben. Der Umbau der Ausgaben auf das internationalisierbare Format wird nun sukzessive fortgeführt.
+
 # [201-09-18] - 2021-09-18
 
 ### Improved
