@@ -17,6 +17,17 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+# [201-10-12] - 2021-10-12
+
+### Added
+
+- Social Media-Links in den Kapitel-Seiten "Registrierung" und "Abschlusskapitel"
+- Feedback-Formular in der Kapitel-Seite "Abschlusskapitel"
+
+### Improved
+
+- Internationsalisierung der Website weiter ausgebaut
+
 # [201-10-02] - 2021-10-02
 
 ### Added
