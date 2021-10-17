@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-10-17] - 2021-10-17
+
+### Added
+
+- Die Option `solution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen finalen Hinweis. Ist die Option `solution:true` bei einem Hinweis angegeben, überschreibt `solution_hint` die Kosten für diesen Hinweis. So können auflösende Hinwiese unabhängig von ihrer ID (Position) mit einem zum Beispoiel höheren Malus belegt werden.
+
 ## [201-10-16] - 2021-10-16
 
 ### Added
