@@ -21,7 +21,9 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Die Option `solution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen finalen Hinweis. Ist die Option `solution:true` bei einem Hinweis angegeben, überschreibt `solution_hint` die Kosten für diesen Hinweis. So können auflösende Hinwiese unabhängig von ihrer ID (Position) mit einem zum Beispoiel höheren Malus belegt werden.
+- Die Option `nonsolution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen normalen Hinweis. Ist die Option `solution:false` gesetzt oder diese Option nicht in der `quest.json` angegeben, überschreibt `nonsolution_hint` die Kosten für jeden normelen Hinweis dieser Quest. So können normale Hinwiese unabhängig von ihrer ID (Position) mit einem zum Beispiel anderen, identischen Malus belegt werden.
+
+- Die Option `solution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen finalen Hinweis. Ist die Option `solution:true` bei einem Hinweis angegeben, überschreibt `solution_hint` die Kosten für diesen Hinweis. So können auflösende Hinwiese unabhängig von ihrer ID (Position) mit einem zum Beispiel höheren Malus belegt werden.
 
 ## [201-10-16] - 2021-10-16
 
