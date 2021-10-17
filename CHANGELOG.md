@@ -17,14 +17,15 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
-# [201-10-16] - 2021-10-16
+## [201-10-16] - 2021-10-16
 
 ### Added
 
-- Es können nun in der Geschichte minimale und maximale Punkte-Limits eingefügt werden. Diese Limits bewirken, dass der Punktestand der Spielenden nicht unter oder über die angegebenen Werte gezählt wird. 
+- Es können nun in der Geschichte minimale und maximale Punkte-Limits eingefügt werden. Diese Limits bewirken, dass der Punktestand der Spielenden nicht unter oder über die angegebenen Werte gezählt wird.
+
 - Es kann innerhalb der Geschichte und des Events definiert werden, dass inkorrekte Lösungsversuche mit Punktabzug (Malus) berechnet werden. Diese Funktion fördert das Commitment der Spielenden für einen Lösungsversuche innerhalb eines Teams.
 
-# [201-10-12] - 2021-10-12
+## [201-10-12] - 2021-10-12
 
 ### Added
 
@@ -33,37 +34,38 @@ All notable changes to this project will be documented in this file.
 
 ### Improved
 
-- Internationsalisierung der Website weiter ausgebaut
+- Internationalisierung der Website weiter ausgebaut
 
-# [201-10-02] - 2021-10-02
+## [201-10-02] - 2021-10-02
 
 ### Added
 
 - Die Website und das Framework wurden um Internationalisierungs-Funktionen erweitert, die eine Übersetzung der Inhalte in andere Sprachen erlauben. Der Umbau der Ausgaben auf das internationalisierbare Format wird nun sukzessive fortgeführt.
 
-# [201-09-18] - 2021-09-18
+## [201-09-18] - 2021-09-18
 
 ### Improved
 
 - Die Analyse von fehlerhaften Seiten aufrufen wurde optimiert, um die Stabilität des Systems gewährleisten zu können.
 
-# [201-09-17] - 2021-09-17
+## [201-09-17] - 2021-09-17
 
 ### Improved
 
-- Es wurden verschiedene statische Dateien auf dem Webserver implementiert, die eine optimierte Integragtion von Websiten  erlauben.
+- Es wurden verschiedene statische Dateien auf dem Webserver implementiert, die eine optimierte Integration von Websiten erlauben.
 
 ## [201-09-15] - 2021-09-15
 
 ### Added
 
-- Die Website ermöglicht nun eine Registrierung und Anmeldung mit einem Benutzerprofil. Dadurch könen in den nächsten Entwicklungen rollenbasierte Funktionen implementiert werden. Zudem wird über diese Profile zukünftig die An- und Abmeldung zum/vom Newsletter umgesetzt, so dass ein keine weitere Verifikation der E-Mailadresse erforderlich ist.
+- Die Website ermöglicht nun eine Registrierung und Anmeldung mit einem Benutzerprofil. Dadurch können in den nächsten Entwicklungen rollenbasierte Funktionen implementiert werden. Zudem wird über diese Profile zukünftig die An- und Abmeldung zum/vom Newsletter umgesetzt, so dass ein keine weitere Verifikation der E-Mailadresse erforderlich ist.
  
 ## [201-09-09] - 2021-09-09
 
 ### Improved
 
-- Die Variablen innerhalbn der Inhalte (Story) werden nun zusätzlich zu den Definitionen aus den Teams und dem Event aus der Story selber ermittelt. Dabei folgt die Ersetzung der Reihenfolge `team` -> `event` -> `story`. Dieser logische Schritt ist erforderlich, um als Story Creator die eigenen Platzhalter in einer Geschichte vorgeben zu können. Event Creators können als alternative Angaben machen und sich dabei an den Variablen-Definitionen der Story orientieren.
+- Die Variablen innerhalb der Inhalte (Story) werden nun zusätzlich zu den Definitionen aus den Teams und dem Event aus der Story selber ermittelt. Dabei folgt die Ersetzung der Reihenfolge `team` -> `event` -> `story`. Dieser logische Schritt ist erforderlich, um als Story Creator die eigenen Platzhalter in einer Geschichte vorgeben zu können. Event Creators können als alternative Angaben machen und sich dabei an den Variablen-Definitionen der Story orientieren.
+
 - Die Anzeige des Dialogs für Hinweise wurde überarbeitet, um den Bereich "bisherige Tipps" beim ersten Aufrufe konsistenter darzustellen, sollten noch keine Tipps in Anspruch genommen worden sein.
 
 ## [201-09-08] - 2021-09-08
@@ -82,13 +84,13 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Das Exit Game "Hackathon 2021" wurde ferig erstellt und steht die kommenden Tage für einen exklusiven Pilottest zur Verfügung.
+- Das Exit Game "Hackathon 2021" wurde fertig erstellt und steht die kommenden Tage für einen exklusiven Pilottest zur Verfügung.
 
 ## [201-09-01] - 2021-09-01
 
 ### Added
 
-- Die Variable `solution` wurde für Quests implementiert, bei der die erste angegebene Lösung aus dem Attribut `solutions` (die immer existieren muss) dynamisch ausgegeben wird. Ein Quest Creator erhält dadurch die Möglichkeit, einen abschließenden Hinweis mit dedr Lösung anzugeben, ohne diese anpassen zu müssen, sollte sich die Quest beziehungsweise dessen Lösung geändert hat.
+- Die Variable `solution` wurde für Quests implementiert, bei der die erste angegebene Lösung aus dem Attribut `solutions` (die immer existieren muss) dynamisch ausgegeben wird. Ein Quest Creator erhält dadurch die Möglichkeit, einen abschließenden Hinweis mit ded Lösung anzugeben, ohne diese anpassen zu müssen, sollte sich die Quest beziehungsweise dessen Lösung geändert hat.
 
 ### Changed
 
@@ -98,13 +100,13 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Für Hinweise zu Herausforderungen wurde das Attribut `solution` (`hints` -> id -> `solution`) implementiert, mit dem ein Hinweis markiert werden kann, der die Lösung zeigt. Der Spieler wird auf diesen Umstand explizit hingweisen.
+- Für Hinweise zu Herausforderungen wurde das Attribut `solution` (`hints` -> id -> `solution`) implementiert, mit dem ein Hinweis markiert werden kann, der die Lösung zeigt. Der Spieler wird auf diesen Umstand explizit hingeweisen.
 
 ## [201-08-19] - 2021-08-19
 
 ### Added
 
-- Die Funktion `handout` ermöglicht nun innerhalb der Story die Einbindung eines Deckblatts bzw. der ersten Seiten und Abschlußseiten. Zwischen diese Bestandteile werden die Handouts der Quests eingebettet, so dass bei Erzeugung ein in sich schlüssiges PDF generiert wird. 
+- Die Funktion `handout` ermöglicht nun innerhalb der Story die Einbindung eines Deckblatts bzw. der ersten Seiten und Abschlussseiten. Zwischen diese Bestandteile werden die Handouts der Quests eingebettet, so dass bei Erzeugung ein in sich schlüssiges PDF generiert wird. 
 
 ### Changed
 
@@ -133,7 +135,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Änderungen am Exit Game Homeoffice, erstes Rätsel ersetzt und neue Funktionen eingearbeitet
-- Vektorisierung der Geafik der Quest 'shiphol' 
+- Vektorisierung der Grafik der Quest 'shiphol' 
 
 ## [201-08-09] - 2021-08-09
 
@@ -145,7 +147,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Die Webiste wurde um die Funktion `benefits` erweitert, auf der die Vorteile von digitalen Exit Games beschrieben werden.
+- Die Website wurde um die Funktion `benefits` erweitert, auf der die Vorteile von digitalen Exit Games beschrieben werden.
 
 ### Changed
 
@@ -188,8 +190,8 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Variablen können un mit der Zeichenfolge `%%%...%%%` angegeben werden. Dies hat den Hintergrund, dass Variablen nun auch als Beschriftung für Schaltflächen in zum Beispiel #junctions genutzt werden können. Um die Komplexität von verschachtelten Angaben mit {...} zu vermeiden, wurde das neue Format ergänzend eingefügt. Dieses sollte ab sofort in allen Angaben verwendet werden. Betstehende Definitionen können erhalten bleiben.
-- In Kapitel mit #junctions werden nun inaktive Schaltflächen deutlicher (btn-outline-light) als inaktv dargestellt.
+- Variablen können un mit der Zeichenfolge `%%%...%%%` angegeben werden. Dies hat den Hintergrund, dass Variablen nun auch als Beschriftung für Schaltflächen in zum Beispiel #junctions genutzt werden können. Um die Komplexität von verschachtelten Angaben mit {...} zu vermeiden, wurde das neue Format ergänzend eingefügt. Dieses sollte ab sofort in allen Angaben verwendet werden. Bestehende Definitionen können erhalten bleiben.
+- In Kapitel mit #junctions werden nun inaktive Schaltflächen deutlicher (btn-outline-light) als inaktiv dargestellt.
 
 ## [201-07-27] - 2021-07-27
 
@@ -213,7 +215,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Es wurde ein `Lobby-Modus` integriert, der nach der Regsitrierung alle angemeldeten Benutzer in einem Wartebereich hält. Erst wenn ein berechtigter Nutzer das erste Kapitel für die wartenden Spielenden freigibt, verlassen diese den Wartebereich automatisch und gemeinsam.
+- Es wurde ein `Lobby-Modus` integriert, der nach der Registrierung alle angemeldeten Benutzer in einem Wartebereich hält. Erst wenn ein berechtigter Nutzer das erste Kapitel für die wartenden Spielenden freigibt, verlassen diese den Wartebereich automatisch und gemeinsam.
 
 ## [201-07-20] - 2021-07-20
 
@@ -260,7 +262,7 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- Die Steuerung von Audio wurde optimiert, so dass abhängig davon, ob Audio wiedergegeben wird, das Icon korrekt dargestellt wird - dies ist durch die vom Creator steuerbare Option 'autoplay'bedingt gewesen.
+- Die Steuerung von Audio wurde optimiert, so dass abhängig davon, ob Audio wiedergegeben wird, das Icon korrekt dargestellt wird - dies ist durch die vom Creator steuerbare Option 'autoplay' bedingt gewesen.
 
 ## [201-07-10] - 2021-07-10
 
@@ -306,7 +308,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Umstrukturierung der Github Repository, so das nun Events, Stories und Quests jeweils in einem eigenen Repository verwaltet werden können.
-- Ermittelnb der in einem Event eingebetteten Story und Quests und automatische Aktualisierung aller Bestandteile aus den jeweiligen dedizierten Repositories.
+- Ermitteln der in einem Event eingebetteten Story und Quests und automatische Aktualisierung aller Bestandteile aus den jeweiligen dedizierten Repositories.
 
 ### Fixed
 
