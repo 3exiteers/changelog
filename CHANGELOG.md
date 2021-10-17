@@ -21,17 +21,17 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Die Option `nonsolution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen normalen Hinweis. Ist die Option `solution:false` gesetzt oder diese Option nicht in der `quest.json` angegeben, überschreibt `nonsolution_hint` die Kosten für jeden normelen Hinweis dieser Quest. So können normale Hinwiese unabhängig von ihrer ID (Position) mit einem zum Beispiel anderen, identischen Malus belegt werden.
+- Die Option `nonsolution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen normalen Hinweis. Ist die Option `solution:false` gesetzt oder diese Option nicht in der `quest.json` angegeben, überschreibt `nonsolution_hint` die Kosten für jeden normelen Hinweis dieser Quest. So können normale Hinwiese unabhängig von ihrer ID (Position) mit einem zum Beispiel anderen, identischen Malus belegt werden. (Dank an @Fez)
 
-- Die Option `solution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen finalen Hinweis. Ist die Option `solution:true` bei einem Hinweis angegeben, überschreibt `solution_hint` die Kosten für diesen Hinweis. So können auflösende Hinwiese unabhängig von ihrer ID (Position) mit einem zum Beispiel höheren Malus belegt werden.
+- Die Option `solution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen finalen Hinweis. Ist die Option `solution:true` bei einem Hinweis angegeben, überschreibt `solution_hint` die Kosten für diesen Hinweis. So können auflösende Hinwiese unabhängig von ihrer ID (Position) mit einem zum Beispiel höheren Malus belegt werden. (Dank an @Fez)
 
 ## [201-10-16] - 2021-10-16
 
 ### Added
 
-- Es können nun in der Geschichte minimale und maximale Punkte-Limits eingefügt werden. Diese Limits bewirken, dass der Punktestand der Spielenden nicht unter oder über die angegebenen Werte gezählt wird.
+- Es können nun in der Geschichte minimale und maximale Punkte-Limits eingefügt werden. Diese Limits bewirken, dass der Punktestand der Spielenden nicht unter oder über die angegebenen Werte gezählt wird. (Dank an @Fez)
 
-- Es kann innerhalb der Geschichte und des Events definiert werden, dass inkorrekte Lösungsversuche mit Punktabzug (Malus) berechnet werden. Diese Funktion fördert das Commitment der Spielenden für einen Lösungsversuche innerhalb eines Teams.
+- Es kann innerhalb der Geschichte und des Events definiert werden, dass inkorrekte Lösungsversuche mit Punktabzug (Malus) berechnet werden. Diese Funktion fördert das Commitment der Spielenden für einen Lösungsversuche innerhalb eines Teams. (Dank an @Fez)
 
 ## [201-10-12] - 2021-10-12
 
