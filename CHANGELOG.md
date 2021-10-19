@@ -17,6 +17,13 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+
+## [201-10-19] - 2021-10-19
+
+### Added
+
+- Die Funktion `snow`wurde eingebaut, mit der herabfallende Schnellflocken zur Anzeige gebracht werden können. Als Parwemeter zu der Funktion kann die Anzahl der Schneeflocken angegeben werden.
+
 ## [201-10-17] - 2021-10-17
 
 ### Added
