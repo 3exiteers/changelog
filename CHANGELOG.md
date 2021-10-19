@@ -22,7 +22,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Die Funktion `snow`wurde eingebaut, mit der herabfallende Schnellflocken zur Anzeige gebracht werden können. Als Parwemeter zu der Funktion kann die Anzahl der Schneeflocken angegeben werden.
+- Die Funktion `snow` wurde eingebaut, mit der herabfallende Schnellflocken zur Anzeige gebracht werden können. Als Parwemeter zu der Funktion kann die Anzahl der Schneeflocken angegeben werden.
 
 ## [201-10-17] - 2021-10-17
 
