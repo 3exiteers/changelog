@@ -20,6 +20,12 @@ All notable changes to this project will be documented in this file.
 
 ## [201-10-19] - 2021-10-19
 
+### Fixed
+
+- Für Hinweis-Punkte kann nun in der `story.json` explizit für einen Hinweis `null` gesetzt werden, sollte ein Hinweis die Punkte aus der `quest.json` nutzen sollen, ein anderer jedoch nicht. Diese Option der expliziten Angabe ist als Ergänzung zu `nonsolution_hint` und `solution_hint` zu sehen.
+
+## [201-10-19] - 2021-10-19
+
 ### Added
 
 - Die Funktion `snow` wurde eingebaut, mit der herabfallende Schnellflocken zur Anzeige gebracht werden können. Als Parwemeter zu der Funktion kann die Anzahl der Schneeflocken angegeben werden.
