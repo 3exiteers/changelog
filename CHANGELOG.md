@@ -22,7 +22,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- BIG UPDATE! Wir haben die Rückmeldungen unserer Spieler gehört! Der Wunsch, den Fortschritt innerhalb der Geschichten erkennen zu können, wurde umgesetzt. Auf jeder Seite eines Exit Game wird nun die Gesamtanzahl der erreichbare und nicht erreichbare Kapitel als Segmente angezeigt. Mit Fortschritt in der Geschichte, werden die bereits vom Team erreichten Kapitel als erreichte Segmente angezeigt. Die Spieler eines Teams haben so die Möglichkeit, die bereits erreichten Kapitel durch Auswahl der Segmente direkt aufzurufen. Damit können nachfolgende Teammitglieder gleich zum letzten vom Team erreichten Kapitel springen oder das Team an ein vorheriges Kapitel zurückspringen. Wir danken allen Hinweisgebern für diese großartige Idee.
+- BIG UPDATE! Wir haben auf unserer Spieler gehört! Auf vielfachen Wunsch kann nun innerhalb eines Exit Game der Fortschritt erkannt werden. Auf jeder Seite eines Exit Game wird nun die Gesamtanzahl der Kapitel als Segmente angezeigt. Mit dem Fortschritt des Teams in der Geschichte, werden die bereits vom Team erreichten Kapitel gekennzeichnet und mit einem Link versehen. Die Spieler eines Teams haben so die Möglichkeit, die bereits erreichten Kapitel durch Auswahl der Segmente direkt aufzurufen. Damit können nachfolgende Teammitglieder gleich zum letzten vom Team erreichten Kapitel springen oder das Team an ein vorheriges Kapitel zurückspringen. Wir danken allen Hinweisgebern für diese großartige Idee.
 
 ## [201-10-19] - 2021-10-19
 
