@@ -18,6 +18,12 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [201-10-22] - 2021-10-22
+
+### Added
+
+- BIG UPDATE! Wir haben die Rückmeldungen unserer Spieler gehört! Der Wunsch, den Fortschritt innerhalb der Geschichten erkennen zu können, wurde umgesetzt. Auf jeder Seite eines Exit Game wird nun die Gesamtanzahl der erreichbare und nicht erreichbare Kapitel als Segmente angezeigt. Mit Fortschritt in der Geschichte, werden die bereits vom Team erreichten Kapitel als erreichte Segmente angezeigt. Die Spieler eines Teams haben so die Möglichkeit, die bereits erreichten Kapitel durch Auswahl der Segmente direkt aufzurufen. Damit können nachfolgende Teammitglieder gleich zum letzten vom Team erreichten Kapitel springen oder das Team an ein vorheriges Kapitel zurückspringen. Wir danken allen Hinweisgebern für diese großartige Idee.
+
 ## [201-10-19] - 2021-10-19
 
 ### Fixed
