@@ -17,6 +17,11 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-10-23] - 2021-10-23
+
+### Fixed
+
+- Der Status der Schaltflächen in einer `#junction` wird nun für die letzte Schaltfläche der Voraussetzungen richtig gesetzt, sollten alle Voraussetzungen erfüllt sein und der Default angezeigt werden.
 
 ## [201-10-22] - 2021-10-22
 
