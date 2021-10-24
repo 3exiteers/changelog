@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-10-24] - 2021-10-24
+
+### Added
+
+- Dei Aktualisierungen über Github wurden weiter optimiert. Repositories in der 3Exiteers Organisation rufen nun per Webhook die Aktualisierungs-Funktion auf, mit der die aktualisierten Repositories für Èvebt`, `Story`und `Quest` automatisch und nur für dieses Repository aktualsisiert werden. Änderungen an den Repositories werden dadurch umgehend angewendet. Der bisherige Aktualisierungsmechanismus steht weiterhin zur Verfügung.
+
 ## [201-10-23] - 2021-10-23
 
 ### Fixed
