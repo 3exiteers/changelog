@@ -23,6 +23,12 @@ All notable changes to this project will be documented in this file.
 
 - Dei Aktualisierungen über Github wurden weiter optimiert. Repositories in der 3Exiteers Organisation rufen nun per Webhook die Aktualisierungs-Funktion auf, mit der die aktualisierten Repositories für `Event`, `Story` und `Quest` automatisch und nur für dieses Repository aktualsisiert werden. Änderungen an den Repositories werden dadurch umgehend angewendet. Der bisherige Aktualisierungsmechanismus steht weiterhin zur Verfügung.
 
+## [201-10-25] - 2021-10-23
+
+### Added
+
+- Neues Exit Game hinzugefügt "In der Weihnachtsfabrik"  
+
 ## [201-10-23] - 2021-10-23
 
 ### Fixed
@@ -111,6 +117,12 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Im Design `vfl` wurde die Hinweis-Schaltfläche `Tipps anzeigen` auf Seiten mit Herausforderungen dauerhaft im unteren rechten Bereich eingeblendet. Diese Umsetzung erfolgte auf Grund der Benutzer-Feedbacks aus dem Pilottest zum Format "Hack your way", aus dem deutlich wurde, das Hinweise unter Umständen eher in Anspruch genommen werden, wenn diese Option dem Spielenden deutlicher ist.
+
+## [201-09-06] - 2021-09-06
+
+### Improved
+
+- Neues Design von dem Instagram Account-Posts
 
 ## [201-09-05] - 2021-09-05
 
