@@ -21,7 +21,13 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Dei Aktualisierungen über Github wurden weiter optimiert. Repositories in der 3Exiteers Organisation rufen nun per Webhook die Aktualisierungs-Funktion auf, mit der die aktualisierten Repositories für `Event`, `Story` und `Quest` automatisch und nur für dieses Repository aktualsisiert werden. Änderungen an den Repositories werden dadurch umgehend angewendet. Der bisherige Aktualisierungsmechanismus steht weiterhin zur Verfügung.
+- Wird über die Hinweise die Lösung angezeigt, wird neben der Lösung ein Icon zum Kopieren der Lösung in die Zwischenablage angeboten. Darüber kann der Spielende die Lösung ohne manuelle Eingabe in das Lösungfeld einfügen. Diese Funktion ist gerade bei komplexeren Lösungen hilfreich und ermöglicht zudem ein Übertragen der Lösung in einen Team-Chat, so dass alle Nutzer die Eingabe verwenden können.
+
+## [201-10-24] - 2021-10-24
+
+### Added
+
+- Die Aktualisierungen über Github wurden weiter optimiert. Repositories in der 3Exiteers Organisation rufen nun per Webhook die Aktualisierungs-Funktion auf, mit der die aktualisierten Repositories für `Event`, `Story` und `Quest` automatisch und nur für dieses Repository aktualsisiert werden. Änderungen an den Repositories werden dadurch umgehend angewendet. Der bisherige Aktualisierungsmechanismus steht weiterhin zur Verfügung.
 
 ## [201-10-25] - 2021-10-23
 
