@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-10-28] - 2021-10-28
+
+### Added
+
+- In der Fortschrittsanzeige wird nun mit einem Positions-Symbol die aktuelle Position des Spielers in der Geschichte angezeigt. 
+
 ## [201-10-26] - 2021-10-26
 
 ### Added
