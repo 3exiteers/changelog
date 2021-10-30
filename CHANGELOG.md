@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-10-30] - 2021-10-30
+
+### Fixed
+
+- Aktualisierung der Ersetzungsfunktion für Lösungen in den Hinweisen, so dass das Kopier-Icon einen Satzbau berücksichtigt und erst nach dem Satzzeichen angezeigt wird.
+
 ## [201-10-28] - 2021-10-28
 
 ### Added
