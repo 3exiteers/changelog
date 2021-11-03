@@ -17,6 +17,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-11-03] - 2021-11-03
+
+### Added
+
+- Die Funktion `Schnell-Code` wurde implementiert, mit der über die Adresse https://qc.3exiteers.de und Eingabe des Codes ein Team an dem referenzierten Event angemeldet werden kann. Vorteil dieser Funktion ist, dass alle Teams mit einer identischen Startadresse das Exit Game starten können. Somit ist den Teams nicht ersichtlich, dass im Hintergrund unter Umständen unterschiedliche Exit Games gestartet werden. Zudem erleichtert dies die Kommunikation der Startadresse.
+
 ## [201-10-30] - 2021-10-30
 
 ### Fixed
