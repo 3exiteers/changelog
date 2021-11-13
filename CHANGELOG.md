@@ -4,18 +4,22 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-- Internationalization
 - Overview of available stories
 - Overview of available quests
 - Online editor for events, stories and quests
 - Quest ranomizer to randomized displayed quest
-- Github repository selection
 - User/profile management
 - Wordcloud input
 - Feedback link
 - Event QR codes (via permanent link)
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
+
+## [201-11-13] - 2021-11-13
+
+### Changed
+
+- Die Protokollierung wurde für spätere Analysen per Web-Oberfläche optimiert. 
 
 ## [201-11-03] - 2021-11-03
 
