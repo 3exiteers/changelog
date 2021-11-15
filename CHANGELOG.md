@@ -15,6 +15,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-11-15] - 2021-11-15
+
+### Changed
+
+- Die Protokollierung wurde erweitert und in die Web-Oberfläche innerhalb des Admin-Menüs integriert. Dieses Menü steht regristierten Nutzern mit der Rolle `Admin` zur Verfügung.
+
 ## [201-11-13] - 2021-11-13
 
 ### Changed
