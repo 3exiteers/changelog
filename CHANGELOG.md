@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+
 ## [201-11-15] - 2021-11-15
 
 ### Changed
@@ -26,6 +27,11 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Die Protokollierung wurde für spätere Analysen per Web-Oberfläche optimiert. 
+- Das Exit Game X-Mas wurde überarbeitet
+
+### Added 
+
+- Neues Ende für das X-Mas Exit Game
 
 ## [201-11-03] - 2021-11-03
 
