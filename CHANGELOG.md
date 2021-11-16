@@ -17,6 +17,10 @@ All notable changes to this project will be documented in this file.
 
 ## [201-11-16] - 2021-11-16
 
+### Changed
+
+- Teaser Quests und Story auf Public geschaltet
+
 ### Added
 
 - Rätsel für das Teaser-Exit Game wurden erstellt und hochgeladen
