@@ -15,6 +15,11 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-11-16] - 2021-11-16
+
+### Added
+
+- Rätsel für das Teaser-Exit Game wurden erstellt und hochgeladen
 
 ## [201-11-15] - 2021-11-15
 
