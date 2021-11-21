@@ -15,6 +15,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-11-21] - 2021-11-21
+
+### Added
+
+- Der Fortschrittsbalken wird nun regelmäößig aktualisiert, so dass alle Nutzer über den aktuellen Fortschritt und Veränderungen bei den zuletzt von mindestens einem Teammitglied aufgerufenen Kapitel informiert wird. Dadurch können ohne Seiten-Aktualisierung Teammitglieder zu der jeweils aktuellen Position des Teams wechseln.
+
 ## [201-11-20] - 2021-11-20
 
 ### Improved
