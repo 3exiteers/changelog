@@ -15,11 +15,17 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-03] - 2021-12-03
+
+### Added
+
+- Die Medien-Funktion `link` wurde hinzugefügt, mit der es möglich ist, Link im generischen Format in Texte für die Story, eine Quest oder Hinweise von Quests anzugeben.
+
 ## [201-11-21] - 2021-11-21
 
 ### Added
 
-- Der Fortschrittsbalken wird nun regelmäößig aktualisiert, so dass alle Nutzer über den aktuellen Fortschritt und Veränderungen bei den zuletzt von mindestens einem Teammitglied aufgerufenen Kapitel informiert wird. Dadurch können ohne Seiten-Aktualisierung Teammitglieder zu der jeweils aktuellen Position des Teams wechseln.
+- Der Fortschrittsbalken wird nun regelmäßig aktualisiert, so dass alle Nutzer über den aktuellen Fortschritt und Veränderungen bei den zuletzt von mindestens einem Teammitglied aufgerufenen Kapitel informiert wird. Dadurch können ohne Seiten-Aktualisierung Teammitglieder zu der jeweils aktuellen Position des Teams wechseln.
 
 ## [201-11-20] - 2021-11-20
 
@@ -41,7 +47,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Die Protokollierung wurde erweitert und in die Web-Oberfläche innerhalb des Admin-Menüs integriert. Dieses Menü steht regristierten Nutzern mit der Rolle `Admin` zur Verfügung.
+- Die Protokollierung wurde erweitert und in die Web-Oberfläche innerhalb des Admin-Menüs integriert. Dieses Menü steht registrierten Nutzern mit der Rolle `Admin` zur Verfügung.
 
 ## [201-11-13] - 2021-11-13
 
@@ -76,13 +82,13 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Wird über die Hinweise die Lösung angezeigt, wird neben der Lösung ein Icon zum Kopieren der Lösung in die Zwischenablage angeboten. Darüber kann der Spielende die Lösung ohne manuelle Eingabe in das Lösungfeld einfügen. Diese Funktion ist gerade bei komplexeren Lösungen hilfreich und ermöglicht zudem ein Übertragen der Lösung in einen Team-Chat, so dass alle Nutzer die Eingabe verwenden können.
+- Wird über die Hinweise die Lösung angezeigt, wird neben der Lösung ein Icon zum Kopieren der Lösung in die Zwischenablage angeboten. Darüber kann der Spielende die Lösung ohne manuelle Eingabe in das Lösungsfeld einfügen. Diese Funktion ist gerade bei komplexeren Lösungen hilfreich und ermöglicht zudem ein Übertragen der Lösung in einen Team-Chat, so dass alle Nutzer die Eingabe verwenden können.
 
 ## [201-10-24] - 2021-10-24
 
 ### Added
 
-- Die Aktualisierungen über Github wurden weiter optimiert. Repositories in der 3Exiteers Organisation rufen nun per Webhook die Aktualisierungs-Funktion auf, mit der die aktualisierten Repositories für `Event`, `Story` und `Quest` automatisch und nur für dieses Repository aktualsisiert werden. Änderungen an den Repositories werden dadurch umgehend angewendet. Der bisherige Aktualisierungsmechanismus steht weiterhin zur Verfügung.
+- Die Aktualisierungen über Github wurden weiter optimiert. Repositories in der 3Exiteers Organisation rufen nun per Webhook die Aktualisierungs-Funktion auf, mit der die aktualisierten Repositories für `Event`, `Story` und `Quest` automatisch und nur für dieses Repository aktualisiert werden. Änderungen an den Repositories werden dadurch umgehend angewendet. Der bisherige Aktualisierungsmechanismus steht weiterhin zur Verfügung.
 
 ## [201-10-25] - 2021-10-23
 
@@ -112,7 +118,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Die Funktion `snow` wurde eingebaut, mit der herabfallende Schnellflocken zur Anzeige gebracht werden können. Als Parwemeter zu der Funktion kann die Anzahl der Schneeflocken angegeben werden.
+- Die Funktion `snow` wurde eingebaut, mit der herabfallende Schnellflocken zur Anzeige gebracht werden können. Als Parameter zu der Funktion kann die Anzahl der Schneeflocken angegeben werden.
 
 ## [201-10-17] - 2021-10-17
 
