@@ -15,6 +15,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-05] - 2021-12-05
+
+### Added
+
+- die Median-Funktion `magnify` wurde implementiert, mit der eine Lupe auf Grafiken angezeigt werden kann, um so kleinere Elemente in Bildern sichtbar zu machen. Die Funktion arbeitet auf dem angegebenen Elemente (per ID angegeben) und unterstützt bei Mouseover über dem Element den Zoom mit einem Mausrad.
+
 ## [201-12-03] - 2021-12-03
 
 ### Added
