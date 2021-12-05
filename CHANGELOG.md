@@ -19,7 +19,11 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- die Median-Funktion `magnify` wurde implementiert, mit der eine Lupe auf Grafiken angezeigt werden kann, um so kleinere Elemente in Bildern sichtbar zu machen. Die Funktion arbeitet auf dem angegebenen Elemente (per ID angegeben) und unterstützt bei Mouseover über dem Element den Zoom mit einem Mausrad.
+- Die Median-Funktion `magnify` wurde implementiert, mit der eine Lupe auf Grafiken angezeigt werden kann, um so kleinere Elemente in Bildern sichtbar zu machen. Die Funktion arbeitet auf dem angegebenen Elemente (per ID angegeben) und unterstützt bei Mouseover über dem Element den Zoom mit einem Mausrad.
+
+### Removed
+
+- Die Lightbox-Funktion für Grafiken wurde auf Grund der Funktion `magnify` bis auf Weiteres deaktiviert, um auf mobilen Endgeräten keinen UX-Konflikt beim Klick von Grafiken hervorzurufen. Die Funktion wird als dediziert zu integrierende Funktion später wieder aufgenommen.
 
 ## [201-12-03] - 2021-12-03
 
