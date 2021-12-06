@@ -15,6 +15,17 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-06] - 2021-12-06
+
+### Improved
+
+- Rätsel KLM Englische Variante weiter angepasst
+ 
+### Improved
+
+- Rätsel X-Mas Kontakt zum Boss angepasst und kleine Anpassungen an der Story
+
+
 ## [201-12-05] - 2021-12-05
 
 ### Added
