@@ -19,7 +19,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- in Quest können nur sowohl im `body` als auch im `solutionhint` die Variable `solution` eingesetzt werden. Somit können speziell in der Handout-Quest Hinweise zu der ersten gültigen Eingabe getätigt werden.
+- in Quests können nur sowohl im `body` als auch im `solutionhint` die Variable `solution` eingesetzt werden. Somit können speziell in der Handout-Quest Hinweise zu der ersten gültigen Eingabe getätigt werden.
 
 ## [201-12-06] - 2021-12-06
 
