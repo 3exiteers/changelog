@@ -15,6 +15,18 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-11] - 2021-12-11
+
+### Added
+
+- Die Events können nur weitere Informationen zu einem Creator aufnehmen. So können zum Beispiel Benachrichtigungen über die eigenen Events, eine Kontaktadresse für Zugangsanfragen oder die Kennzeichnung als Creator selber vorgenommen werden. Über diese Informationen kann ein Event stärker durch Creators personalisiert werden.
+
+- Implementierung der Funktion "Teams de-/aktivieren", mit der durch einen Creator die Teamcode vor dem Event auf inaktiv gesetzt werden können, zum jeweiligen Event dann mittels Menüaufruf aktiviert werden können. So können die Zugangsdaten zuvor bekanntgegeben werden, jedoch erst zum Even selber aktiviert werden. Dies entspricht der zuvor eingeführten Funktion `Lobby` ist jedoch auf Ebene der Teams nun auch gültig für nachkommende Teammitglieder. Zudem wirkt diese Funktion (speziell bei der Deaktivierung) auch für nachträgliche Aufrufe, da damit eine Nutzung eines Events ohne aktiven Teamcode nicht mehr möglich ist.
+
+### Changed
+
+- Die neben dem Auditing erfolgende Benachrichtigung über Anmeldungen kann nun je nach Zustand (`SUCCESS` / `FAILED`) erfolgen, um so die Sicherheit des Frameworks und der Inhalte zu erhöhen.
+
 ## [201-12-10] - 2021-12-10
 
 ### Added
