@@ -27,7 +27,7 @@ All notable changes to this project will be documented in this file.
 
 - Für Events, bei denen im `Creator`-Block eine `request`Angabe für eine E-Mail-Adresse angegeben ist, wird diese bei fehlerhaften Anmeldeversuchen gezeigt. Somit hat der Creator die Möglichkeit, die Zugänge zu dem Event eigenverantwortlich zu steuern.
 
-- Das Feedback-Fomular am Ende eines Exit Game kann nun auch an den Creator gesendet werden. Hierzu muss der Creator in der `event.json` das Feld `feedback` im `creator` Block setzen.
+- Das Feedback-Fomular am Ende eines Exit Game kann nun auch an den Creator gesendet werden. Hierzu muss der Creator in der `event.json` das Feld `feedback` im `creator`-Block setzen.
 
 ### Changed
 
