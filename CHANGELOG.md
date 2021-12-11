@@ -28,6 +28,8 @@ All notable changes to this project will be documented in this file.
 
 - Das Feedback-Fomular am Ende eines Exit Game kann nun auch an den Creator gesendet werden. Hierzu muss der Creator in der `event.json` das Feld `feedback` im `creator`-Block setzen.
 
+- Teams können nun über das Menü den eigenen Teamnamen anpassen. Dies gilt als Vorbereitung für eine Prüfung beim Aufruf eines Exit Games, wenn kein Name für das Team vergeben wurde und das Team zu Beginn eines Spiels den eigenen Namen vergeben muss.
+
 ### Changed
 
 - Die neben dem Auditing erfolgende Benachrichtigung über Anmeldungen kann nun je nach Zustand (`SUCCESS` / `FAILED`) erfolgen, um so die Sicherheit des Frameworks und der Inhalte zu erhöhen.
