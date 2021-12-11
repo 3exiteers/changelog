@@ -10,7 +10,6 @@ All notable changes to this project will be documented in this file.
 - Quest ranomizer to randomized displayed quest
 - User/profile management
 - Wordcloud input
-- Feedback link
 - Event QR codes (via permanent link)
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
