@@ -23,9 +23,19 @@ All notable changes to this project will be documented in this file.
 
 - Implementierung der Funktion "Teams de-/aktivieren", mit der durch einen Creator die Teamcode vor dem Event auf inaktiv gesetzt werden können, zum jeweiligen Event dann mittels Menüaufruf aktiviert werden können. So können die Zugangsdaten zuvor bekanntgegeben werden, jedoch erst zum Even selber aktiviert werden. Dies entspricht der zuvor eingeführten Funktion `Lobby` ist jedoch auf Ebene der Teams nun auch gültig für nachkommende Teammitglieder. Zudem wirkt diese Funktion (speziell bei der Deaktivierung) auch für nachträgliche Aufrufe, da damit eine Nutzung eines Events ohne aktiven Teamcode nicht mehr möglich ist.
 
+- Fehlerhafte Anmeldeversuche werden nun mit der Ursache des Fehlers dokumentiert.
+
+- Für Events, bei denen im `Creator`-Block eine `request`Angabe für eine E-Mail-Adresse angegeben ist, wird diese bei fehlerhaften Anmeldeversuchen gezeigt. Somit hat der Creator die Möglichkeit, die Zugänge zu dem Event eigenverantwortlich zu steuern.
+
+- Das Feedback-Fomular am Ende eines Exit Game kann nun auch an den Creator gesendet werden. Hierzu muss der Creator in der `event.json` das Feld `feedback` im `creator` Block setzen.
+
 ### Changed
 
 - Die neben dem Auditing erfolgende Benachrichtigung über Anmeldungen kann nun je nach Zustand (`SUCCESS` / `FAILED`) erfolgen, um so die Sicherheit des Frameworks und der Inhalte zu erhöhen.
+
+- Die Breite der Menüs in der Oberfläche wurden verbreitert, so dass längerer Text vollständig lesbar ist.
+
+- Benachrichtigungen zu Feedbacks werden nun anstatt mit TO mit BCC gesendet, so dass bei mehreren E-Mail-Adressen diese nicht exponiert werden.
 
 ## [201-12-10] - 2021-12-10
 
