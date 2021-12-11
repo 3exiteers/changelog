@@ -36,6 +36,8 @@ All notable changes to this project will be documented in this file.
 
 - Benachrichtigungen zu Feedbacks werden nun anstatt mit TO mit BCC gesendet, so dass bei mehreren E-Mail-Adressen diese nicht exponiert werden.
 
+- Repositories zu `changelog`, `features` und `benefits` werden über den Autoupdate-Mechanismus nach einer Änderung automatisch aktualisiert. 
+
 ## [201-12-10] - 2021-12-10
 
 ### Added
