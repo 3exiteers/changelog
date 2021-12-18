@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-17] - 2021-12-17
+
+### Improved
+
+- Die Timer-Funktionalität wurde dahingehend angepasst, dass das Ziel-Kapitel nun nicht mehr im Klartext im Code enthalten ist 
+
 ## [201-12-11] - 2021-12-11
 
 ### Added
