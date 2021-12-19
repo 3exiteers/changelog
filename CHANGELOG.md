@@ -16,6 +16,10 @@ All notable changes to this project will be documented in this file.
 
 ## [201-12-19] - 2021-12-19
 
+### Added
+
+- Im Bereich des `junction`-Handlings wurde eine Anti-Cheat-Funktion eingebaut, die den Aufruf eines Default-Kapitels verhindert, sollten nicht alle Voraussetzungen dafür erfüllt sein.
+
 ### Improved
 
 - Das `junction`-Handling wurde weiter verbessert, so dass die Weiterleitungen an wählbare Kapitel aber auch an das Standard-Kapitel nun durch das Frmaework geprüft werden können
