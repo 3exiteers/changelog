@@ -23,6 +23,8 @@ All notable changes to this project will be documented in this file.
 ### Improved
 
 - Das `junction`-Handling wurde weiter verbessert, so dass die Weiterleitungen an wählbare Kapitel aber auch an das Standard-Kapitel nun durch das Frmaework geprüft werden können
+- Die Menüstruktur für Exit Games wurde optimiert, so dass Menüeinträge in optimierter Reihenfolge angezeigt werden. Zudem werden die Einträge je nach Zustand der Anmeldung des Spielenden angezeigt.
+- In der Menüstruktur ist nun der Aufruf des ersten Kapitels im angemeldeten Zustand möglich.
 
 ## [201-12-17] - 2021-12-17
 
