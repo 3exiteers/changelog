@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-19] - 2021-12-19
+
+### Improved
+
+- Das `junction`-Handling wurde weiter verbessert, so dass die Weiterleitungen an wählbare Kapitel aber auch an das Standard-Kapitel nun durch das Frmaework geprüft werden können
+
 ## [201-12-17] - 2021-12-17
 
 ### Improved
