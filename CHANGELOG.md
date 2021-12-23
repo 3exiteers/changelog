@@ -16,6 +16,10 @@ All notable changes to this project will be documented in this file.
 
 ## [201-12-23] - 2021-12-23
 
+### Changed
+
+- Die Anzeige einer Statistik ist nur für angemeldete Teams möglich, da die Teamnamen Event-spezifische sensible Informationen enhalten `können`.
+
 ### Improved
 
 - Sollte in einem mit `timer` definierten Kapitel unterschiedliche Routen von den Teammitgliedern eingeschalgen werden, gilt nur noch die zuerst eingeschlagene Route. EAs wird nur der Fortschritt und die Punkte des gültigen (ersten) Aufrufs gewertet. Davon sind die Punktevergabe und die Fortschrittsanzeige betroffen. Dadurch kann verhindert werden, dass das Team ungültige Punkteabzüge (oder -gutschriften) nicht erhält und der erste gültige Pfad verwendet wird.
