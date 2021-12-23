@@ -14,6 +14,13 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-23] - 2021-12-23
+
+### Improved
+
+- Sollte in einem mit `timer` definierten Kapitel unterschiedliche Routen von den Teammitgliedern eingeschalgen werden, gilt nur noch die zuerst eingeschlagene Route. EAs wird nur der Fortschritt und die Punkte des gültigen (ersten) Aufrufs gewertet. Davon sind die Punktevergabe und die Fortschrittsanzeige betroffen. Dadurch kann verhindert werden, dass das Team ungültige Punkteabzüge (oder -gutschriften) nicht erhält und der erste gültige Pfad verwendet wird.
+- Wird ein Aufruf eines Kapitels mit `timer` von einem Teammitglied nach einer zuvor erfolgreichen Protokollierung eines anderen Pfades festgestellt, wird bei Aufruf eine Hinweismeldung diesem Teammitglied angezeigt und das Kapitel als sognenannte `deadend` dargestellt: alle Schaltflächen werden aus dem INhalt ausgeblendet und der Spielende muss über die Fortschrittsanzeige in das aktuelle Kapitel wechseln.
+
 ## [201-12-19] - 2021-12-19
 
 ### Added
