@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-24] - 2021-12-24
+
+### Changed
+
+- Die Aktion `Teams de-/aktivieren` und Èvent de-/aktvieren` geben nun Feedback an den aufrufenden Anwender. Bei der De-/Aktivierung der Teams wird nun auch aufgelistet, welche Teamcodes von der Aktion betroffen sind.
+
 ## [201-12-23] - 2021-12-23
 
 ### Changed
