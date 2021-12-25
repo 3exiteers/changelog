@@ -26,6 +26,10 @@ All notable changes to this project will be documented in this file.
 - Das Exit Game `Flight KLM427 (deutsch)` wurde auf die neue Stylesheet-Option angepasst, so dass im Kopfbereich eine Grafik angezeigt wird.
 - Das Exit Game `X-Mas v3 (deutsch)` wurde auf die neue Stylesheet-Option angepasst, so dass im Kopfbereich eine Grafik angezeigt wird.
 
+### Changed
+
+- Für gespielte Kapitel wurde in `junctions` der Style `btn-outline-info` aktiviert, so dass nun jeder Status eines Kaöiels in einer `junction` erkennbar ist: ungespielt und deaktiviert (`btn-outline-light`), ungespielt und aktiviert (`btn-tertiary`) und gespielt und aktiviert (`btn-ountline-info`).
+
 ## [201-12-24] - 2021-12-24
 
 ### Changed
