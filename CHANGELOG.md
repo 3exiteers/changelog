@@ -14,6 +14,14 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-25] - 2021-12-25
+
+### Added
+
+- Für den Sync mit Github wurde der neue Typ `style` eingeführt, mit dem Stylesheets zu einer Story angegeben werden können. Mit dieser Definition ist es möglich, Styles des verwendeten Templates zu modofizieren und im Sinne der Story zu verändern. So ist es beispielsweise möglich, im Kopfbereich eines Exit Game eine Grafik anzuzeigen oder Farben für Elemente zu verändern.
+- Mit der Option `storystyle` können auf Stylesheets fremder Stories verwiesen werden. Hierzu muss lediglich der Name der Story angegeben werden. - **ACHTUNG**: Diese Option referenziert, sofern vorhanden, auf eine fremde Stylesheet, die zukünftig von Dritten geändert werden kann! Damit kann nicht sichergestellt werden, dass die Styles zukünftig mit der eigenen Story kompatibel sind.
+- Das Exit Game `Flight KLM427 (deutsch)` wurde auf die neue Stylesheet-Option angepasst, so dass im Kopfbereich eine Grafik angezeigt wird.
+
 ## [201-12-24] - 2021-12-24
 
 ### Changed
