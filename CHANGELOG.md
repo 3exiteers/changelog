@@ -40,7 +40,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Die Aktion `Teams de-/aktivieren` und Èvent de-/aktvieren` geben nun Feedback an den aufrufenden Anwender. Bei der De-/Aktivierung der Teams wird nun auch aufgelistet, welche Teamcodes von der Aktion betroffen sind.
+- Die Aktion `Teams de-/aktivieren` und ´Event de-/aktvieren` geben nun Feedback an den aufrufenden Anwender. Bei der De-/Aktivierung der Teams wird nun auch aufgelistet, welche Teamcodes von der Aktion angepasst worden sind.
 
 ## [201-12-23] - 2021-12-23
 
