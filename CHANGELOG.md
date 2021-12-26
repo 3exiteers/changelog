@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-26] - 2021-12-26
+
+### Improved
+
+- Die Javascript-Scripte für die Fortschrittsanzeige und den Counter wurden optimiert.
+
 ## [201-12-25] - 2021-12-25
 
 ### Added
