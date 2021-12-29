@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 ### Improved
 
 - Die Anmeldemaskte `Quickcode` wurde optimiert und grafisch eindeutiger gestaltet. Anmeldungen mittels Quickcode setzen sich zukünftig auf drei (3) Zeichen für das Event und acht (8) Zeichen für das Team zusammen. Die Darstellung in der Quickcode-Maske unterscheidet nun auch für Creators eindeutiger zwischen diesen Bestandteilen.
+- Optimierung der Template-Struktur, so dass die Templates-Derivate mit weniger individuellen Bestandteilen auskommen. Durch die Verschlankung könnne die Templates für Dritte deutlich leichter angepasst werden, was eine Fehleranfälligkeit reduiziert.
 
 ## [201-12-26] - 2021-12-26
 
