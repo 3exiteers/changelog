@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-29] - 2021-12-29
+
+### Improved
+
+- Die Anmeldemaskte `Quickcode` wurde optimiert und grafisch eindeutiger gestaltet. Anmeldungen mittels Quickcode setzen sich zukünftig auf drei (3) Zeichen für das Event und acht (8) Zeichen für das Team zusammen. Die Darstellung in der Quickcode-Maske unterscheidet nun auch für Creators eindeutiger zwischen diesen Bestandteilen.
+
 ## [201-12-26] - 2021-12-26
 
 ### Improved
