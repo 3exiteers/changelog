@@ -22,6 +22,7 @@ All notable changes to this project will be documented in this file.
 - Mit der oben beschrieben Implementierung können nun auch vorgefertigte Links an Teilnehmer übergeben werden, bei denen nicht umgehend eine Validierung des Quickcodes erfolgt, sondern der Nutzer diesen Quickcode zuerst bestätigen muss. Diese Funktion arbeitet ergänzend zu der direkten Angabe des Quickcode als URL-Pfad-Bestandteil.
 - Die Tab-Taste führt bei der Navigation innerhalb der Quickcode-Felder nun nicht mehr zum Löschen einer vorherigen EIngabe und arbeitet nun so, wie die Tasten Pfeil-links und Pfeil-rechts.
 - Wird ein Quickcode vorausgefüllt, wird der Fokus der Eingabe nun auf das nächste freie Feld gesetzt. Ist der Quickcode weniger als Zeichen lang, wird der Fokus auf das vierte Feld (=das erste Feld des Teamcodes) gesetzt.
+- Die Anzeige der Sprache eines Events wird nun innerhalb des Banners angezeigt. Dadurch erhalten die Tags etwas mehr Platz und bei kleineren Bildschirmen droht die Flagge nun nicht mehr unter den Button dargestellt zu werden.
 
 ## [201-12-29] - 2021-12-29
 
