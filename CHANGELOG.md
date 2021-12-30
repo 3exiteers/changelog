@@ -20,6 +20,8 @@ All notable changes to this project will be documented in this file.
 
 - Die Funktion Quickcode wurde erweitert, so dass der Quickcode vorausgefüllt werden kann. Dies ist hilfreich, da in der Übersicht der Exit Games nun auch eine Anzeige des für das Event gültigen Quickcode-Bestandteils erfolgt. Durch Klick auf diese Anzeige wird die Quickcode-Seite mit dem Parameter des Quickcode-Bestandteils aufgerufen.
 - Mit der oben beschrieben Implementierung können nun auch vorgefertigte Links an Teilnehmer übergeben werden, bei denen nicht umgehend eine Validierung des Quickcodes erfolgt, sondern der Nutzer diesen Quickcode zuerst bestätigen muss. Diese Funktion arbeitet ergänzend zu der direkten Angabe des Quickcode als URL-Pfad-Bestandteil.
+- Die Tab-Taste führt bei der Navigation innerhalb der Quickcode-Felder nun nicht mehr zum Löschen einer vorherigen EIngabe und arbeitet nun so, wie die Tasten Pfeil-links und Pfeil-rechts.
+- Wird ein Quickcode vorausgefüllt, wird der Fokus der Eingabe nun auf das nächste freie Feld gesetzt. Ist der Quickcode weniger als Zeichen lang, wird der Fokus auf das vierte Feld (=das erste Feld des Teamcodes) gesetzt.
 
 ## [201-12-29] - 2021-12-29
 
