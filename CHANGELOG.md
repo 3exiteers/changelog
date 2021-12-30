@@ -14,6 +14,13 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-30] - 2021-12-30
+
+### Improved
+
+- Die Funktion Quickcode wurde erweitert, so dass der Quickcode vorausgefüllt werden kann. Dies ist hilfreich, da in der Übersicht der Exit Games nun auch eine Anzeige des für das Event gültigen Quickcode-Bestandteils erfolgt. Durch Klick auf diese Anzeige wird die Quickcode-Seite mit dem Parameter des Quickcode-Bestandteils aufgerufen.
+- Mit der oben beschrieben Implementierung können nun auch vorgefertigte Links an Teilnehmer übergeben werden, bei denen nicht umgehend eine Validierung des Quickcodes erfolgt, sondern der Nutzer diesen Quickcode zuerst bestätigen muss. Diese Funktion arbeitet ergänzend zu der direkten Angabe des Quickcode als URL-Pfad-Bestandteil.
+
 ## [201-12-29] - 2021-12-29
 
 ### Improved
