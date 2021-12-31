@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- In dem Eingabefeld für die Lösung zu einer Herausforderung wir dnun ein Informations-Icon angezeigt, das bei einem Hover anzeigt, wie die Lösung vom Framework interpretiert wird und wie viele mögliche Schreibweisen der Lösung zulässig sind. Mit dieser Information können Spielende vor Eingabe erfahren, wie die Eingabe zuzsätzlich verändert wird, um als richtig oder falsch interpretiert zu werden.
+- In dem Eingabefeld für die Lösung zu einer Herausforderung wir nun ein Informations-Icon angezeigt, das bei einem Hover anzeigt, wie die Lösung vom Framework interpretiert wird und wie viele mögliche Schreibweisen der Lösung zulässig sind. Mit dieser Information können Spielende vor Eingabe erfahren, wie die Eingabe zusätzlich verändert wird, um als richtig oder falsch interpretiert zu werden.
 
 ## [201-12-30] - 2021-12-30
 
@@ -34,20 +34,20 @@ All notable changes to this project will be documented in this file.
 
 ### Improved
 
-- Die Anmeldemaskte `Quickcode` wurde optimiert und grafisch eindeutiger gestaltet. Anmeldungen mittels Quickcode setzen sich zukünftig auf drei (3) Zeichen für das Event und acht (8) Zeichen für das Team zusammen. Die Darstellung in der Quickcode-Maske unterscheidet nun auch für Creators eindeutiger zwischen diesen Bestandteilen.
-- Optimierung der Template-Struktur, so dass die Templates-Derivate mit weniger individuellen Bestandteilen auskommen. Durch die Verschlankung könnne die Templates für Dritte deutlich leichter angepasst werden, was eine Fehleranfälligkeit reduiziert.
+- Die Anmeldemaske `Quickcode` wurde optimiert und grafisch eindeutiger gestaltet. Anmeldungen mittels Quickcode setzen sich zukünftig auf drei (3) Zeichen für das Event und acht (8) Zeichen für das Team zusammen. Die Darstellung in der Quickcode-Maske unterscheidet nun auch für Creators eindeutiger zwischen diesen Bestandteilen.
+- Optimierung der Template-Struktur, so dass die Templates-Derivate mit weniger individuellen Bestandteilen auskommen. Durch die Verschlankung können die Templates für Dritte deutlich leichter angepasst werden, was eine Fehleranfälligkeit reduziert.
 
 ## [201-12-26] - 2021-12-26
 
 ### Improved
 
-- Die Javascript-Scripte für die Fortschrittsanzeige und den Counter wurden optimiert.
+- Die Javascript-Skripte für die Fortschrittsanzeige und den Counter wurden optimiert.
 
 ## [201-12-25] - 2021-12-25
 
 ### Added
 
-- Für den Sync mit Github wurde der neue Typ `style` eingeführt, mit dem Stylesheets zu einer Story angegeben werden können. Mit dieser Definition ist es möglich, Styles des verwendeten Templates zu modofizieren und im Sinne der Story zu verändern. So ist es beispielsweise möglich, im Kopfbereich eines Exit Game eine Grafik anzuzeigen oder Farben für Elemente zu verändern.
+- Für den Sync mit Github wurde der neue Typ `style` eingeführt, mit dem Stylesheets zu einer Story angegeben werden können. Mit dieser Definition ist es möglich, Styles des verwendeten Templates zu modifizieren und im Sinne der Story zu verändern. So ist es beispielsweise möglich, im Kopfbereich eines Exit Game eine Grafik anzuzeigen oder Farben für Elemente zu verändern.
 - Mit der Option `storystyle` können auf Stylesheets fremder Stories verwiesen werden. Hierzu muss lediglich der Name der Story angegeben werden. - **ACHTUNG**: Diese Option referenziert, sofern vorhanden, auf eine fremde Stylesheet, die zukünftig von Dritten geändert werden kann! Damit kann nicht sichergestellt werden, dass die Styles zukünftig mit der eigenen Story kompatibel sind.
 
 ### Improved
@@ -57,7 +57,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Für gespielte Kapitel wurde in `junctions` der Style `btn-outline-info` aktiviert, so dass nun jeder Status eines Kaöiels in einer `junction` erkennbar ist: ungespielt und deaktiviert (`btn-outline-light`), ungespielt und aktiviert (`btn-tertiary`) und gespielt und aktiviert (`btn-ountline-info`).
+- Für gespielte Kapitel wurde in `junctions` der Style `btn-outline-info` aktiviert, so dass nun jeder Status eines Kapiels in einer `junction` erkennbar ist: ungespielt und deaktiviert (`btn-outline-light`), ungespielt und aktiviert (`btn-tertiary`) und gespielt und aktiviert (`btn-ountline-info`).
 
 ## [201-12-24] - 2021-12-24
 
@@ -69,12 +69,12 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Die Anzeige einer Statistik ist nur für angemeldete Teams möglich, da die Teamnamen Event-spezifische sensible Informationen enhalten `können`.
+- Die Anzeige einer Statistik ist nur für angemeldete Teams möglich, da die Teamnamen Event-spezifische sensible Informationen enthalten `können`.
 
 ### Improved
 
-- Sollte in einem mit `timer` definierten Kapitel unterschiedliche Routen von den Teammitgliedern eingeschalgen werden, gilt nur noch die zuerst eingeschlagene Route. EAs wird nur der Fortschritt und die Punkte des gültigen (ersten) Aufrufs gewertet. Davon sind die Punktevergabe und die Fortschrittsanzeige betroffen. Dadurch kann verhindert werden, dass das Team ungültige Punkteabzüge (oder -gutschriften) nicht erhält und der erste gültige Pfad verwendet wird.
-- Wird ein Aufruf eines Kapitels mit `timer` von einem Teammitglied nach einer zuvor erfolgreichen Protokollierung eines anderen Pfades festgestellt, wird bei Aufruf eine Hinweismeldung diesem Teammitglied angezeigt und das Kapitel als sognenannte `deadend` dargestellt: alle Schaltflächen werden aus dem INhalt ausgeblendet und der Spielende muss über die Fortschrittsanzeige in das aktuelle Kapitel wechseln.
+- Sollte in einem mit `timer` definierten Kapitel unterschiedliche Routen von den Teammitgliedern eingeschalten werden, gilt nur noch die zuerst eingeschlagene Route. EAs wird nur der Fortschritt und die Punkte des gültigen (ersten) Aufrufs gewertet. Davon sind die Punktevergabe und die Fortschrittsanzeige betroffen. Dadurch kann verhindert werden, dass das Team ungültige Punkteabzüge (oder -gutschriften) nicht erhält und der erste gültige Pfad verwendet wird.
+- Wird ein Aufruf eines Kapitels mit `timer` von einem Teammitglied nach einer zuvor erfolgreichen Protokollierung eines anderen Pfades festgestellt, wird bei Aufruf eine Hinweismeldung diesem Teammitglied angezeigt und das Kapitel als sogenannte `deadend` dargestellt: alle Schaltflächen werden aus dem INhalt ausgeblendet und der Spielende muss über die Fortschrittsanzeige in das aktuelle Kapitel wechseln.
 - Verarbeitung von Github Repositories wurde neben dem üblichen Präfixen um mögliche Suffixe erweitert, so dass die Repositories eines Exit Game nun alphabethisch zusammenhängend dargestellt werden können (bei alphabethischer Anzeige). Derzeit sind in Repository-Namen die Suffixe `.event`, `.story` und `.quest` zulässig. Die bisherigen Präfix `event-`, `story-` und `quest-` bleiben vorerst erhalten.
 - Die Funktionen zum Zurücksetzen verschiedener Zustände wurde dahingehend geändert, dass nach der Rücksetzung die Registrierungsseite aufgerufen wird und die Bestätigung bzw. die Fehlermeldung als modaler Dialog angezeigt wird.
 
@@ -86,7 +86,7 @@ All notable changes to this project will be documented in this file.
 
 ### Improved
 
-- Das `junction`-Handling wurde weiter verbessert, so dass die Weiterleitungen an wählbare Kapitel aber auch an das Standard-Kapitel nun durch das Frmaework geprüft werden können
+- Das `junction`-Handling wurde weiter verbessert, so dass die Weiterleitungen an wählbare Kapitel aber auch an das Standard-Kapitel nun durch das Framework geprüft werden können
 - Die Menüstruktur für Exit Games wurde optimiert, so dass Menüeinträge in optimierter Reihenfolge angezeigt werden. Zudem werden die Einträge je nach Zustand der Anmeldung des Spielenden angezeigt.
 - In der Menüstruktur ist nun der Aufruf des ersten Kapitels im angemeldeten Zustand möglich.
 
@@ -143,7 +143,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Die Median-Funktion `magnify` wurde implementiert, mit der eine Lupe auf Grafiken angezeigt werden kann, um so kleinere Elemente in Bildern sichtbar zu machen. Die Funktion arbeitet auf dem angegebenen Elemente (per ID angegeben) und unterstützt bei Mouseover über dem Element den Zoom mit einem Mausrad.
+- Die Median-Funktion `magnify` wurde implementiert, mit der eine Lupe auf Grafiken angezeigt werden kann, um so kleinere Elemente in Bildern sichtbar zu machen. Die Funktion arbeitet auf dem angegebenen Element (per ID angegeben) und unterstützt bei Mouseover über dem Element den Zoom mit einem Mausrad.
 
 ### Removed
 
@@ -240,7 +240,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- BIG UPDATE! Wir haben auf unserer Spieler gehört! Auf vielfachen Wunsch kann nun innerhalb eines Exit Game der Fortschritt erkannt werden. Auf jeder Seite eines Exit Game wird nun die Gesamtanzahl der Kapitel als Segmente angezeigt. Mit dem Fortschritt des Teams in der Geschichte, werden die bereits vom Team erreichten Kapitel gekennzeichnet und mit einem Link versehen. Die Spieler eines Teams haben so die Möglichkeit, die bereits erreichten Kapitel durch Auswahl der Segmente direkt aufzurufen. Damit können nachfolgende Teammitglieder gleich zum letzten vom Team erreichten Kapitel springen oder das Team an ein vorheriges Kapitel zurückspringen. Wir danken allen Hinweisgebern für diese großartige Idee.
+- BIG UPDATE! Wir haben auf unsere Spieler gehört! Auf vielfachen Wunsch kann nun innerhalb eines Exit Game der Fortschritt erkannt werden. Auf jeder Seite eines Exit Game wird nun die Gesamtanzahl der Kapitel als Segmente angezeigt. Mit dem Fortschritt des Teams in der Geschichte, werden die bereits vom Team erreichten Kapitel gekennzeichnet und mit einem Link versehen. Die Spieler eines Teams haben so die Möglichkeit, die bereits erreichten Kapitel durch Auswahl der Segmente direkt aufzurufen. Damit können nachfolgende Teammitglieder gleich zum letzten vom Team erreichten Kapitel springen oder das Team an ein vorheriges Kapitel zurückspringen. Wir danken allen Hinweisgebern für diese großartige Idee.
 
 ## [201-10-19] - 2021-10-19
 
@@ -258,9 +258,9 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Die Option `nonsolution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen normalen Hinweis. Ist die Option `solution:false` gesetzt oder diese Option nicht in der `quest.json` angegeben, überschreibt `nonsolution_hint` die Kosten für jeden normelen Hinweis dieser Quest. So können normale Hinwiese unabhängig von ihrer ID (Position) mit einem - zum Beispiel - abweichenden, aber dafür identischen, Malus belegt werden. (Dank an @Fez)
+- Die Option `nonsolution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen normalen Hinweis. Ist die Option `solution:false` gesetzt oder diese Option nicht in der `quest.json` angegeben, überschreibt `nonsolution_hint` die Kosten für jeden normalen Hinweis dieser Quest. So können normale Hinweise unabhängig von ihrer ID (Position) mit einem - zum Beispiel - abweichenden, aber dafür identischen, Malus belegt werden. (Dank an @Fez)
 
-- Die Option `solution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen finalen Hinweis. Ist die Option `solution:true` bei einem Hinweis angegeben, überschreibt `solution_hint` die Kosten für diesen Hinweis. So können auflösende Hinwiese unabhängig von ihrer ID (Position) mit einem zum Beispiel höheren Malus belegt werden. (Dank an @Fez)
+- Die Option `solution_hint` in der `story.json` unterhalb der Punkteanpassungen eines Kapitels ermöglicht nun unabhängig von der Anzahl der Hinweise in einer `quest.json` die Anpassung von Punktekosten für einen finalen Hinweis. Ist die Option `solution:true` bei einem Hinweis angegeben, überschreibt `solution_hint` die Kosten für diesen Hinweis. So können auflösende Hinweise unabhängig von ihrer ID (Position) mit einem zum Beispiel höheren Malus belegt werden. (Dank an @Fez)
 
 ## [201-10-16] - 2021-10-16
 
@@ -311,7 +311,7 @@ All notable changes to this project will be documented in this file.
 
 - Die Variablen innerhalb der Inhalte (Story) werden nun zusätzlich zu den Definitionen aus den Teams und dem Event aus der Story selber ermittelt. Dabei folgt die Ersetzung der Reihenfolge `team` -> `event` -> `story`. Dieser logische Schritt ist erforderlich, um als Story Creator die eigenen Platzhalter in einer Geschichte vorgeben zu können. Event Creators können als alternative Angaben machen und sich dabei an den Variablen-Definitionen der Story orientieren.
 
-- Die Anzeige des Dialogs für Hinweise wurde überarbeitet, um den Bereich "bisherige Tipps" beim ersten Aufrufe konsistenter darzustellen, sollten noch keine Tipps in Anspruch genommen worden sein.
+- Die Anzeige des Dialogs für Hinweise wurde überarbeitet, um den Bereich "bisherige Tipps" beim ersten Aufruf konsistenter darzustellen, sollten noch keine Tipps in Anspruch genommen worden sein.
 
 ## [201-09-08] - 2021-09-08
 
@@ -351,7 +351,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Für Hinweise zu Herausforderungen wurde das Attribut `solution` (`hints` -> id -> `solution`) implementiert, mit dem ein Hinweis markiert werden kann, der die Lösung zeigt. Der Spieler wird auf diesen Umstand explizit hingeweisen.
+- Für Hinweise zu Herausforderungen wurde das Attribut `solution` (`hints` -> id -> `solution`) implementiert, mit dem ein Hinweis markiert werden kann, der die Lösung zeigt. Der Spieler wird auf diesen Umstand explizit hingewiesen.
 
 ## [201-08-19] - 2021-08-19
 
@@ -422,7 +422,7 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- Bei der Funktion `playare` wurde ein Bug bei der Angabe der Rotation gefixt, der dazu führte, dass alle Elemente an Zufallsangaben rotiert wurden. Die Angabe der Rotation wird nun respektiert.
+- Bei der Funktion `playarea` wurde ein Bug bei der Angabe der Rotation gefixt, der dazu führte, dass alle Elemente an Zufallsangaben rotiert wurden. Die Angabe der Rotation wird nun respektiert.
 
 ## [201-07-30] - 2021-07-30
 
@@ -485,7 +485,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Die Funktion `voice` wurde integriert. Damit können innerhalb der geschichte (Story) Sprachausgaben über den Browser in die Geschichte integriert werden. So ist es möglich, den Inhalt für Menschen mit Sehbeeinträchtigungen zugänglich zu machen oder eine umfangreichere Geschichte den Spielenden verbal verkürzt zu beschreiben.
+- Die Funktion `voice` wurde integriert. Damit können innerhalb der Geschichte (Story) Sprachausgaben über den Browser in die Geschichte integriert werden. So ist es möglich, den Inhalt für Menschen mit Sehbeeinträchtigungen zugänglich zu machen oder eine umfangreichere Geschichte den Spielenden verbal verkürzt zu beschreiben.
 
 ### Changed
 
@@ -558,7 +558,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Umstrukturierung der Github Repository, so das nun Events, Stories und Quests jeweils in einem eigenen Repository verwaltet werden können.
+- Umstrukturierung der Github Repository, so dass nun Events, Stories und Quests jeweils in einem eigenen Repository verwaltet werden können.
 - Ermitteln der in einem Event eingebetteten Story und Quests und automatische Aktualisierung aller Bestandteile aus den jeweiligen dedizierten Repositories.
 
 ### Fixed
