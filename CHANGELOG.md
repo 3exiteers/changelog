@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [201-12-31] - 2021-12-31
+
+### Added
+
+- In dem Eingabefeld für die Lösung zu einer Herausforderung wir dnun ein Informations-Icon angezeigt, das bei einem Hover anzeigt, wie die Lösung vom Framework interpretiert wird und wie viele mögliche Schreibweisen der Lösung zulässig sind. Mit dieser Information können Spielende vor Eingabe erfahren, wie die Eingabe zuzsätzlich verändert wird, um als richtig oder falsch interpretiert zu werden.
+
 ## [201-12-30] - 2021-12-30
 
 ### Improved
