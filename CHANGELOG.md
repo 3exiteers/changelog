@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-01-03] - 2022-01-03
+
+### Improved
+
+- Das Exit Game `Die Geheimnisse von Chateau Astore` wurden für eine Veröffentlichung optimiert. 
+
 ## [2022-01-02] - 2022-01-02
 
 ### Improved
@@ -22,7 +28,6 @@ All notable changes to this project will be documented in this file.
 - Flash-Nachrichten werden nun auch bei AJAX-Requests angezeigt. Die Rückmeldungen wurden entsprechend angepasst, dass eine visuell ansprechende Rückmeldung erfolgt.
 - Flash-Nachrichten beinhalten nun auch eine Angabe zum zu nutzenden Style, der für das Aussehen der Rückmeldung (unter anderem Informationen, Fehler, Warnungen) genutzt wird.
 - Die Anfrage nach einem Zugang zu einem Exit Game ("request for access") ist nun mit einem Captcha geschützt, so dass Anfragen von Robots verhindert werden sollten.
--
 
 ## [2021-12-31] - 2021-12-31
 
