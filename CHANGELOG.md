@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 ### Improved
 
 - Flash-Nachrichten werden nun über eine eigene Funktion dargestellt. Dies bietet den Vorteil, dass sowohl Titel als auch Nachricht internationalisiert werden können und damit mehr Informationen den Nutzenden dargestellt werden können.
+- Die Anfrage nach einem Zugang zu einem Exit Game ("request for access") ist nun mit einem Captcha geschützt, so dass Anfragen von Robots verhindert werden sollten.
 
 ## [2021-12-31] - 2021-12-31
 
