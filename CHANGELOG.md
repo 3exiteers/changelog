@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-01-06] - 2022-01-06
+
+### Added
+
+- Innerhalb unserer Exit Games kann nun ein virtuelle Zeichenfläche (`3Exiteers Skratchpad`) aufgerufen werden, mit der man verschiedene Zeichenoperationen auf der Website vornehmen kann. Es sit somit möglich, dass Notizen, Verbindungen oder Markierungen vorgenommen werden können, ohne dass ein Zettel oder Stift nötig sind. Damit erreicht das 3Exiteers Framework eine neue Nutzungsqualität hin zu einer - sofern vom Anwender gewünscht - rein digitalen Form.
+
 ## [2022-01-03] - 2022-01-03
 
 ### Improved
