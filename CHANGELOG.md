@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-01-16] - 2022-01-16
+
+### Added
+
+- Es wurde ein Event Cockpit erstellt, mit dem Content Creators eine leichtere Möglichkeit der Anpassung eines Events haben. Es können sowohl bestimmte Team-Einstellungen per Web-Obverfläche vorgenommen werde, sowie verschiedene Links zu dem Event und alle Hinweise zu dem Event bzw. der Story angezeigt werden. Dieses Cockpit bietet während der Begleitung eines Events alle notwendiogen Hinweise, die Teams optimal begleiten zu können. Außerdem kann das Cockpit zur Fehleranalyse des Events genutzt werden. 
+
 ## [2022-01-06] - 2022-01-06
 
 ### Added
