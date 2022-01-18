@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-01-17] - 2022-01-17
+
+### Improved
+
+- Das Event Cockpit wurde mit Funktionen zum Reset der Team-Fortschritte und der Schnell-Navigation in die Kapitel eines Events/einer Story ergänzt.
+
 ## [2022-01-16] - 2022-01-16
 
 ### Added
