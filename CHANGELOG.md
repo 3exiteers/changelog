@@ -14,6 +14,13 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-01-18] - 2022-01-18
+
+### Improved
+
+- Die Statistik wurde korrigiert, so dass die Zeitdifferenz der Übersicht nach Zeit nun krrekt berechnet und dargestellt wird.
+- Die Statistik wurde korrigiert, so dass die erreichten Kapitel bei dem Team mit dem löetzten Dateneintrag nun korrekt ermittelt und dargestellt wird.
+
 ## [2022-01-17] - 2022-01-17
 
 ### Improved
