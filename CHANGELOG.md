@@ -20,6 +20,7 @@ All notable changes to this project will be documented in this file.
 
 - Die Statistik wurde korrigiert, so dass die Zeitdifferenz der Übersicht nach Zeit nun krrekt berechnet und dargestellt wird.
 - Die Statistik wurde korrigiert, so dass die erreichten Kapitel bei dem Team mit dem löetzten Dateneintrag nun korrekt ermittelt und dargestellt wird.
+- Die Icons des Event Cockpit wurden zur besseren Lesbarkeit optimiert.
 
 ## [2022-01-17] - 2022-01-17
 
