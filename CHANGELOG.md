@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-01-20] - 2022-01-20
+
+### Improved
+
+- Das Event Cockpit wurde um eine Statistik aller Teams erweitert. Die Statistik zeigt je Team die Spielzeit, die Differenz zum Vorteam, die Differenz zum erstplatzierten Team, den Punktestand, die in Anspruch genommenen Hinweise und die Anzahl der Lösungsversuche an. 
+
 ## [2022-01-18] - 2022-01-18
 
 ### Improved
