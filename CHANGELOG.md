@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-01-24] - 2022-01-24
+
+### Improved
+
+- Die Statistik zu Events wurde weiter verbessert, so dass mehr Details zu den Punkten und Zeiten verfügbar sind. Die angepassten Statistikabfragen erlauben eine schnellere Auswertung und eine Ermittlung der Differenzierungen zu anderen Teams.
+
 ## [2022-01-23] - 2022-01-23
 
 ### Improved
