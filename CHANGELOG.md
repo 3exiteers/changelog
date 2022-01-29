@@ -18,6 +18,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - In dem Event Cockpit werden nun die letzten Aktivitäten von Nutzern angezeigt, um so einen Überblick über Anmeldungen und Aktivitäten zu erhalten.
+- Bereinigung temporärer Verzeichnisse optimiert.
 
 ## [2022-01-24] - 2022-01-24
 
