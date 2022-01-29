@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-01-29] - 2022-01-29
+
+### Added
+
+- In dem Event Cockpit werden nun die letzten Aktivitäten von Nutzern angezeigt, um so einen Überblick über Anmeldungen und Aktivitäten zu erhalten.
+
 ## [2022-01-24] - 2022-01-24
 
 ### Improved
