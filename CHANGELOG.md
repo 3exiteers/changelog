@@ -13,6 +13,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-02-01] - 2022-02-01
+
+### Fixed
+
+- Die Anzeige der Spielzeiten der Kapitel wurden in der Statistik korrigiert. Die Spielzeiten werden nun korrekterweise ab dem ersten Kapitel angezeigt und die Spielzeit mit Abschluss des Spiels - dem Aufruf des letzten Kapitels - angepasst.
+
 ## [2022-01-31] - 2022-01-31
 
 ### Added
