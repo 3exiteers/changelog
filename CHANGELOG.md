@@ -13,6 +13,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-01-31] - 2022-01-31
+
+### Added
+
+- In der Statistik werden die von den Teams benötigten Zeiten der gespielten Kapitel grafisch dargestellt. Diese Anzeige erlaubt eine schnelle Übersicht über die benötigten Spielzeiten der jeweiligen Kapitel. 
+
 ## [2022-01-29] - 2022-01-29
 
 ### Added
