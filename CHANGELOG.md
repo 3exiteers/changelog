@@ -13,6 +13,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-02-06] - 2022-02-06
+
+### Added
+
+- Die Statistik wurde um eine Auswertung des Rangs genutzter Hinweise erweitert. Die Auswertung erlaubt zukünftige Auswertungen für Quest-Creators, bei der herausfordernde Quests bewertet werden.  
+
 ## [2022-02-01] - 2022-02-01
 
 ### Fixed
