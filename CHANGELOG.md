@@ -13,6 +13,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-02-09] - 2022-02-09
+
+### Added
+
+- Die Statistik wurde um eine Auswertung der benötigten Nutzungsdauern erweitert. Die Auswertung erlaubt Herausforderungen anhand der benötigten Zeiten zu bewerten.
+
 ## [2022-02-06] - 2022-02-06
 
 ### Added
