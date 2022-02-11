@@ -13,6 +13,16 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-02-11] - 2022-02-11
+
+### Added
+
+- Die Statistik wurde im Diagramme der verschiedenen Bereiche ergänzt.
+
+### Fixed
+
+- Die Statistik der eingegebenen Lösungsversuche wurde korrigiert.
+
 ## [2022-02-10] - 2022-02-10
 
 ### Fixed
