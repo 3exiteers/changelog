@@ -13,6 +13,18 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-02-24] - 2022-02-24
+
+### Improved
+
+- Die Statistik für Herausforderungen wurde erweitert, so dass die Einzelbewertungen nun mehr Details zu den ergebnissen liefern.
+
+- Die Statistik zu den Herausforderungen ermittelt nun aus allen Einzelbewertungen eine Gesamtbewertung, die für ein Event die Herausfroderungen mit den höchsten Schwierigkeitsgrad ermittelt. Diese Bewertung erfolgt anhand der benötigten Zeit, der in Anspruch genommenen Hinweis eund der erfolgten Fehleingaben für Lösungen.
+
+# Fixed
+
+- Die Anmedleseite für Profile wurde korrigiert, so dass eine korrekte Darstellung der Templates wieder erfolgt. Die Ursache für die damit verbundene Fehlermeldung wurde korrigiert.
+
 ## [2022-02-11] - 2022-02-11
 
 ### Added
