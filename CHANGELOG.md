@@ -21,7 +21,7 @@ All notable changes to this project will be documented in this file.
 
 - Die Statistik zu den Herausforderungen ermittelt nun aus allen Einzelbewertungen eine Gesamtbewertung, die für ein Event die Herausfroderungen mit den höchsten Schwierigkeitsgrad ermittelt. Diese Bewertung erfolgt anhand der benötigten Zeit, der in Anspruch genommenen Hinweis eund der erfolgten Fehleingaben für Lösungen.
 
-# Fixed
+### Fixed
 
 - Die Anmedleseite für Profile wurde korrigiert, so dass eine korrekte Darstellung der Templates wieder erfolgt. Die Ursache für die damit verbundene Fehlermeldung wurde korrigiert.
 
