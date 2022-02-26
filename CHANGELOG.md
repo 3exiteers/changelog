@@ -18,6 +18,7 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 
 - Die Berechnung des Zeitbedarfs der Herausforderungen wurde korrigiert, so dass nun die Zeiten der richtigen Kapitel berechnet werden.
+- Die berechnung der Zeiten für Herausforderungen wurde mit der Funktion des Resets von Teams harmonisiert, so dass bisherige Informationen, wie zum Beuspiel Lösungseingaben, für Content Creators erhalten bleiben, jedoch nur die aktuellen Werte in die Berechnung mit einfließen.
 
 ## [2022-02-24] - 2022-02-24
 
