@@ -20,6 +20,10 @@ All notable changes to this project will be documented in this file.
 - Die Berechnung des Zeitbedarfs der Herausforderungen wurde korrigiert, so dass nun die Zeiten der richtigen Kapitel berechnet werden.
 - Die berechnung der Zeiten für Herausforderungen wurde mit der Funktion des Resets von Teams harmonisiert, so dass bisherige Informationen, wie zum Beuspiel Lösungseingaben, für Content Creators erhalten bleiben, jedoch nur die aktuellen Werte in die Berechnung mit einfließen.
 
+### Added
+
+- Es wurde eine Funktion implementiert, mit der Wartungs-Scripte für Datenbanken ausgeführt werden, sollte die Datenbank auf einem veralteten Stand bestehen. Dies ist hilfreich, sollte sich die Struktur der Datenbanken ändern, diese aber noch auf einem veralteten Stand bestehen.
+
 ## [2022-02-24] - 2022-02-24
 
 ### Improved
