@@ -13,6 +13,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-02-26] - 2022-02-26
+
+### Fixed
+
+- Die Berechnung des Zeitbedarfs der Herausforderungen wurde korrigiert, so dass nun die Zeiten der richtigen Kapitel berechnet werden.
+
 ## [2022-02-24] - 2022-02-24
 
 ### Improved
