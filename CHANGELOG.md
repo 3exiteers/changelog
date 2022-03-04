@@ -13,6 +13,15 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-03-04] - 2022-03-04
+
+### Fixed
+
+- Die Statistik wurde angepasst, so dass nach der letzten Vorbereitung für eine zentrale Datenbasis die Anzeige der Spielzeiten wieder ordnungsgemäß funktioniert.
+- Der Aufruf einer internen URL wurde mit einer Fehlerprüfung und Umleitung auf die Registrierungsseite angepasst, so dass dem Nutzenden eine ordnungsgemäße Anmeldung ermöglicht wird.
+- Die Rätsel des Formate "Ein Rongen, um sie zu knechten" wurden angepasst, so dass ein gesteigertes Spielerlebnis ermöglicht wird.
+
+
 ## [2022-02-26] - 2022-02-26
 
 ### Added
