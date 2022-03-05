@@ -13,6 +13,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-03-05] - 2022-03-05
+
+### Improved
+
+- Wird in einem Spiel durch unterschiedliche Spielende unterschiedliche Pfade beschritten, gilt der erste beschrittene Pfad. Alle anderen Spielenden erhalten Die Meldung, dass dem ersten Pfad zu folgen ist. Der Hinwies wurde um einen Link zu dem Kapitel ergänzt.
+
 ## [2022-03-04] - 2022-03-04
 
 ### Fixed
