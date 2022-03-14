@@ -13,6 +13,18 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-03-13] - 2022-03-13
+
+### Improved
+
+- Es wurden neue Variablen hinzugefügt, um während der Geschichte bereits Ergebnisse der Statistik darstellen zu können: `team_points`, `team_chapters`, `team_time`,  team_hints` und `team_solutions`. Die genaue Beschreibung ist in der Dokumentation beschrieben.
+
+## [2022-03-12] - 2022-03-12
+
+### Added
+
+- Ein Hilfesystem wurde implementiert, dass die grundlegenden Funktionen in einem Dialog-basierten Ansatz erläutert. Damit entfallen Beschreibungen innerhalb einer Story, wodurch spätere Erweiterungen nun zentral beschrieben werden können. Der Aufruf erfolgt über eine Schaltfläche unten links in jedem Kapitel einer Geschichte.
+
 ## [2022-03-05] - 2022-03-05
 
 ### Improved
