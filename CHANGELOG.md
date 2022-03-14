@@ -13,6 +13,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-03-14] - 2022-03-14
+
+### Fixed
+
+- Das Event Cockpit wurde korrigiert, so dass die Anzahl der absolvierten Kapitel und der Punkte pro team korrekt dargestellt werden.
+
 ## [2022-03-13] - 2022-03-13
 
 ### Improved
