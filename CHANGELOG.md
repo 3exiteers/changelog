@@ -17,7 +17,7 @@ All notable changes to this project will be documented in this file.
 
 ### Improved
 
-- Es wurden neue Variablen hinzugefügt, um während der Geschichte bereits Ergebnisse der Statistik darstellen zu können: `team_points`, `team_chapters`, `team_time`,  team_hints` und `team_solutions`. Die genaue Beschreibung ist in der Dokumentation beschrieben.
+- Es wurden neue Variablen hinzugefügt, um während der Geschichte bereits Ergebnisse der Statistik darstellen zu können: `team_points`, `team_chapters`, `team_time`,  `team_hints` und `team_solutions`. Die genaue Beschreibung zu den Variablen ist der Dokumentation zu entnehmen.
 
 ## [2022-03-12] - 2022-03-12
 
