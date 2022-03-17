@@ -13,6 +13,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-03-17] - 2022-03-17
+
+### Fixed
+
+- Die Meldungen beim Zurücksetzen von Teams und deren Fortschritt wurde auf die Anzeige des Event- und Teamnamen (anstelle der IDs) umgestellt.
+
 ## [2022-03-14] - 2022-03-14
 
 ### Fixed
