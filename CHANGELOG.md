@@ -13,6 +13,12 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-04-10] - 2022-04-10
+
+### Added
+
+- Variable `player_uuid` implementiert
+
 ## [2022-03-17] - 2022-03-17
 
 ### Fixed
