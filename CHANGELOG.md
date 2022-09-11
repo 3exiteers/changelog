@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file.
 ### Fixes
 
 - Bei Eingabe eines falschen Teamcodes erscheintz nun wieder der Dialog zur Anfrage eines Zugangs
-- Bei Absenden einer Anfrage für einen Zugang erscheint nun wieder korrekterweise eine Rückmeldung and en Nutzer, dass dei Anfrage gesendet bzw. nicht gesendet werden konnte.
+- Bei Absenden einer Anfrage für einen Zugang erscheint nun wieder korrekterweise eine Rückmeldung and en Nutzer, dass dei Anfrage gesendet bzw. nicht gesendet werden konnte
 
 ## [2022-04-10] - 2022-04-10
 
