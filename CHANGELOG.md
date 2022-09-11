@@ -15,10 +15,15 @@ All notable changes to this project will be documented in this file.
 
 ## [2022-09-11] - 2022-09-11
 
+### Improved
+
+- Javascript für Funktionen werden nun nur noch eingebunden, wenn diese Funktionen genutzt werden - so soll die Ladegeschwindigkeit am Client gesteigert werden
+
 ### Fixes
 
 - Bei Eingabe eines falschen Teamcodes erscheintz nun wieder der Dialog zur Anfrage eines Zugangs
 - Bei Absenden einer Anfrage für einen Zugang erscheint nun wieder korrekterweise eine Rückmeldung and en Nutzer, dass dei Anfrage gesendet bzw. nicht gesendet werden konnte
+- Die Abfrage von Formularen mit xCaptcha wurde entfernt - es findet dadurch nun keine Nutzung eines Dritt-Service mehr statt
 
 ## [2022-04-10] - 2022-04-10
 
