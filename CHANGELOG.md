@@ -13,6 +13,13 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+## [2022-09-11] - 2022-09-11
+
+### Fixes
+
+- Bei Eingabe eines falschen Teamcodes erscheintz nun wieder der Dialog zur Anfrage eines Zugangs
+- Bei Absenden einer Anfrage für einen Zugang erscheint nun wieder korrekterweise eine Rückmeldung and en Nutzer, dass dei Anfrage gesendet bzw. nicht gesendet werden konnte.
+
 ## [2022-04-10] - 2022-04-10
 
 ### Added
