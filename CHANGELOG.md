@@ -19,7 +19,7 @@ All notable changes to this project will be documented in this file.
 
 - Javascript für Funktionen werden nun nur noch eingebunden, wenn diese Funktionen genutzt werden - so soll die Ladegeschwindigkeit am Client gesteigert werden
 
-### Fixes
+### Fixed
 
 - Bei Eingabe eines falschen Teamcodes erscheintz nun wieder der Dialog zur Anfrage eines Zugangs
 - Bei Absenden einer Anfrage für einen Zugang erscheint nun wieder korrekterweise eine Rückmeldung and en Nutzer, dass dei Anfrage gesendet bzw. nicht gesendet werden konnte
