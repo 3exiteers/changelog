@@ -13,6 +13,13 @@ All notable changes to this project will be documented in this file.
 - Sync of team players
 - "Waiting points" (to ensure all players in the same position) in story
 
+
+## [2022-09-14] - 2022-09-14
+
+### Added
+
+- Das Feature `markdown` wurde als nutzbare Funktion implementiert. Mit diesem Feature kann Inhalt im Markdown-Format eingebunden werden. Diese Funktion ist speziell für umfangreichere Texte hilfreich, wenn einfache HTML-Formatierungen genutzt werden sollen.
+
 ## [2022-09-11] - 2022-09-11
 
 ### Improved
