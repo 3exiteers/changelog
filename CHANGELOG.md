@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [2022-09-15] - 2022-09-15
+
+### Added
+
+- Es wurde für `Quests` eine neue Funktionsweise eingeführt. Es können nur mit Angabe des Zweigs `variables` definiert werden, ob die Lösungseingabe unter einer oder mehr Variablen gespeichert werden soll. Die Eingabe ersetzt die Werte der angegebenen Variablen.
+
 ## [2022-09-14] - 2022-09-14
 
 ### Added
