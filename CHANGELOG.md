@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [2022-09-16] - 2022-09-16
+
+### Improved
+
+- Für Quests kann nun neben `solutionplaceholder` und `solutiontitle` auch neu `solutionvalue` als Inhalt (`content`) angegeben werden, so dass das Eingabefeld einen vorausgefüllten Wert anzeigt. Die Nutzung von `solutionplaceholder` hat bei angezeigten Werten dazu geführt, dass das Eingabefeld ohne Wert angesendet wurde, da die Nutzenden annehmen konnten, es sei bereits ein Wert gefüllt.
+
 ## [2022-09-15] - 2022-09-15
 
 ### Added
