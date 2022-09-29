@@ -14,6 +14,18 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [2022-09-29] - 2022-09-29
+
+### Improved
+
+- Für `responsive images` kann nun bei der Angabe des Feature-Tags `[image: ...]` der Parameter `{optimize:false}` angegeben werden, soll die Optimierung bewusst ausgeschaltet werden. Dies kann darin begründet sein, dass Dateien zwar bereitstehen, diese aber bewusst (temporär) nicht verwendet werden sollen.
+
+## [2022-09-28] - 2022-09-28
+
+### Added
+
+- Es können nun weitere Auflösungen von Grafiken bereitgestellt werden, die bei kleineren Bildschirmauflösungen dem Browser angeboten werden. Es kann so das Ladeverhalten bei größeren Grafiken beeinflusst werden. Dem Dateinamen ist die Bildschirmbreite anzufügen. Stehen diese Dateien bereit, werden diese als HTML5-Tag angegeben.
+
 ## [2022-09-16] - 2022-09-16
 
 ### Improved
