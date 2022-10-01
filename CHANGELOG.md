@@ -14,6 +14,13 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [2022-10-01] - 2022-10-01
+
+### Added
+
+- Es wurden Sub-Variablen eingeführt, die den Einstz dynamischer Inhalte in Variablen erlauben. Eine Sub-Variable kann unter anderem durch `%%%variable:var1[var2]%%%` verwendet werden.
+-  Es wurden für doe Action `variable ` Aktionen zum Erhöhen oder Verringern von numerischen Variablen eingesetzt. Es stehen `inc`, `increment`, `dec`, `decrement`und `dec0` zur Verfügung. `dec0` bewirkt, dass der numerische Wert nicht unter 0 (Null) reduziert wird.
+
 ## [2022-09-29] - 2022-09-29
 
 ### Improved
