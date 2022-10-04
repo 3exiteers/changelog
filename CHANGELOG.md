@@ -14,6 +14,13 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+
+## [2022-10-04] - 2022-10-04
+
+### Added
+
+- Es wurde das Feature `action` hinzugefügt, mit dem nun aus dem Inhalt heraus angegebene Aktionen ausgeführt werden können. So können beispielweise Variablen während des Aufrufs eines Kapitels gesetzt oder zurückgesetzt werden.
+ 
 ## [2022-10-01] - 2022-10-01
 
 ### Added
