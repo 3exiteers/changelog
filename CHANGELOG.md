@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [2022-10-10] - 2022-10-10
+
+### Added
+
+- Das `action` Feature `flash-notification` wurde ergänzend zu `flash` implementiert, um Spieleden nach einem Seitenwechsel nicht nur einen Dialog für eine Benachrichtigung anbieten zu können, sondern alternativ auch eine Popup-Notification, die nach wenigen Sekunden wieder ausgeblendet wird.
+
 
 ## [2022-10-04] - 2022-10-04
 
