@@ -14,6 +14,13 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [2022-10-15] - 2022-10-15
+
+### Improved
+
+- Die Autoupdate-Funktion wurde um weitere Code-Verwaltungs-Dienste erweitert, so dass bei zukünftigen Erweiterungen auch alternative Verwaltungsdienste unterstützt werden. Zudem wurden die unterstützten Typen von Repositories erweitert, so dass eine flexiblere Wartung der Inhalte gegeben ist.
+
+
 ## [2022-10-10] - 2022-10-10
 
 ### Added
