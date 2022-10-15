@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 ### Improved
 
 - Die Autoupdate-Funktion wurde um weitere Code-Verwaltungs-Dienste erweitert, so dass bei zukünftigen Erweiterungen auch alternative Verwaltungsdienste unterstützt werden. Zudem wurden die unterstützten Typen von Repositories erweitert, so dass eine flexiblere Wartung der Inhalte gegeben ist.
+- Die Autoupdate-Funktion wurde als dedizierter Service umgesetzt, so dass alle Änderungen unabhängig vom Framework umgesetzt werden können. Die Services können ab sofort unabhängig gesteuert werden.
 
 
 ## [2022-10-10] - 2022-10-10
