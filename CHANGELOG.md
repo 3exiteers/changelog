@@ -14,6 +14,16 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [2022-11-06] - 2022-11-06
+
+### Added
+
+- Innerhalb der Story können nun Lösungen ergänzend oder ersetzend zu den Lösungen in der Qeust angegeben werden. Damit können von Story Creators die Eingabemöglichkeiten erweitert oder eingeschränkt werden, ohne die Quest selbst verändern zu müssen. es stehen nun die Attribute `solutions` und `expandmode` innerhalb des Bereichs `solution` zur Verfügung.
+
+### Improved
+
+- Innerhalb von Lösungen können nun Variablen und dadurch dynamische Lösungen genutzt werden. So ist beispielsweise die Eingabe eines dynamisch erzeugten Teamcodes zur Verifikation oder die Abfrage einer vorherigen Eingabe, die in einer VAriable gespeichert wurde, denkbar.
+
 ## [2022-10-15] - 2022-10-15
 
 ### Improved
