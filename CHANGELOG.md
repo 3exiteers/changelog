@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Innerhalb der Story können nun Lösungen ergänzend oder ersetzend zu den Lösungen in der Qeust angegeben werden. Damit können von Story Creators die Eingabemöglichkeiten erweitert oder eingeschränkt werden, ohne die Quest selbst verändern zu müssen. es stehen nun die Attribute `solutions` und `expandmode` innerhalb des Bereichs `solution` zur Verfügung.
+- Innerhalb der Story können nun über die Attribute `userinterface` in jedem Kapitel verschedene Elemente der Oberfläche explizit ein- und ausgeschaltet, sofern diese von dem Template unterstützt werden. Mögliche Optionen sind zum Beispiel die Beeinflussung der Anzeige von: Fortschrittsanzeige (progressbar), Hilfe (help), Hinweise (hint), Sketchpad (sketchpad) und Zusammenholen (fetch). Die Standardeinstellung ist die Anzeige, wie im Template vorgesehen.
 
 ### Improved
 
