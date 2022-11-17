@@ -14,6 +14,13 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [2022-11-16] - 2022-11-16
+
+### Added
+
+- Die Aktion `points` wurde hinzugefügt, um über Aktionen das Punktekonto der Teams zu verändern. Mit der Aktion können aktionsabhängige oder aktionsbasierte Veränderungen umgesetzt werden. Das Punktesystem kann somit auch zukünftig rein ´action`-basiert umgesetzt werden.
+- Die Aktion `database` wurde hinzugefügt, um Variablen in die Datenbank zu schreiben oder diese aus der Datenbank zu lesen. Mit dieser Funktion können Variablen zumBeispiel bei Abschluss eines Events in der Datenbank persistiert werden. Bei Entwicklungen oder Veränderungen von Events kölnnen so die Spielfortschritte der Teams geschrieben und gelesen werden.
+
 ## [2022-11-06] - 2022-11-06
 
 ### Added
