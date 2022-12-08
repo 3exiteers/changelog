@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Die Aktion `database save` und `database load` wurden hinzugefügt, um die Variablen des Teams in der Datenbank zu speichern bzw. aus dieser zu laden. Diese Aktion ist zeitintensiver und muss daher von den Content Creators bewusst eingesetzt werden. Diese Aktionen unterstützen eine Datensicherung des aktuellen Spielfortschritts undabhängig von Event-Aktualisierungen.
+- Autoupdate-Funktion um Backup-Funktion erweitert, die Verzeichnisse von `event`, `story` `quest` vor einer Aktualisierung sichert und erst nach einer Sicherung diese durch den Inhalt aktualisierter Repositories aktualisiert.
 
 ## [2022-11-16] - 2022-11-16
 
