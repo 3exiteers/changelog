@@ -14,6 +14,12 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [2022-12-08] - 2022-12-08
+
+### Added
+
+- die Aktion `database save` und `database load`wurden hinzugefügt, um die Variablen des Teams in der Datenbank zu speichern bzw. aus dieser zu laden. Diese Aktion ist zeitintensiver und muss daher von den Content Creators bewusst eingesetzt werden. Diese Aktionen unterstützen eine Datensicherung des aktuellen Spielfortschritts undabhängig von Event-Aktualisierungen.
+
 ## [2022-11-16] - 2022-11-16
 
 ### Added
