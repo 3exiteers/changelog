@@ -18,9 +18,9 @@ All notable changes to this project will be documented in this file.
 
 ### Security
 
-- Optimized infrastructure to lower attack surface for risk mitigation
-- Addes SPF records to domains to prevent mail spoofing (Kudos to security hero: Ash Day). DKIM and DMARC records will follow shortly.
-- Addes security.txt for security related reportings
+- Die Datei `security.txt`wurde hinzugefügt, um Hinweise zu möglichen Security-Meldungen zu ermöglichen
+- Optimierte Infrastruktur, um Angriffsflächen und Risiken weiter zu reduzieren
+- SPF Datensätze wurden der Domain hinzugfüht, um einen Missbrauch der Domains durch E-Mail Spoofing zu reduzieren und zu vermeiden (Kudos an den Security Researcher `Ash Day` für den Hinweis). DKIM und DMARC Datensätze folgen zeitnah. Alle Einstellungen werden nach der DNS Synchronisation sichtbar und aktiv.
 
 ## [2022-12-08] - 2022-12-08
 
