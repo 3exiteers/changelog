@@ -20,6 +20,7 @@ All notable changes to this project will be documented in this file.
 
 - Optimized infrastructure to lower attack surface for risk mitigation
 - Addes SPF records to domains to prevent mail spoofing (Kudos to security hero: Ash Day). DKIM and DMARC records will follow shortly.
+- Addes security.txt for security related reportings
 
 ## [2022-12-08] - 2022-12-08
 
