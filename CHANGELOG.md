@@ -14,11 +14,18 @@ All notable changes to this project will be documented in this file.
 - "Waiting points" (to ensure all players in the same position) in story
 
 
+## [2023-03-24] - 2023-03-24
+
+### Fixed
+
+- Unter besonderen Umständen wurden in Herausforderungen eingebettete Funktionen nicht korrekt dargestellt. Dadurch wurden notwendige Javascript-Bibliotheken dieser Funktionen nicht korrekt geladen und es traten Javascript-Fehle rin der Console auf. Das Problem konnte Dank eines Hinweises eines Nutzers identifiziert und korrigiert werden.
+
+
 ## [2023-02-05] - 2023-02-05
 
 ### Security
 
-- Die Datei `security.txt`wurde hinzugefügt, um Hinweise zu möglichen Security-Meldungen zu ermöglichen
+- Die Datei `security.txt` wurde hinzugefügt, um Hinweise zu möglichen Security-Meldungen zu ermöglichen
 - Optimierte Infrastruktur, um Angriffsflächen und Risiken weiter zu reduzieren
 - SPF Datensätze wurden der Domain hinzugfüht, um einen Missbrauch der Domains durch E-Mail Spoofing zu reduzieren und zu vermeiden (Kudos an den Security Researcher `Ash Day` für den Hinweis). DKIM und DMARC Datensätze folgen zeitnah. Alle Einstellungen werden nach der DNS Synchronisation sichtbar und aktiv.
 
