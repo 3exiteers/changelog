@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- Unter besonderen Umständen wurden in Herausforderungen eingebettete Funktionen nicht korrekt dargestellt. Dadurch wurden notwendige Javascript-Bibliotheken dieser Funktionen nicht korrekt geladen und es traten Javascript-Fehle rin der Console auf. Das Problem konnte Dank eines Hinweises eines Nutzers identifiziert und korrigiert werden.
+- Unter besonderen Umständen wurden in Herausforderungen eingebettete Funktionen nicht korrekt dargestellt. Dadurch wurden notwendige Javascript-Bibliotheken dieser Funktionen nicht korrekt geladen, was unvollständig geladene Javascript-Bibliotheken zur Folge hatte. Das Problem konnte Dank eines Hinweises eines Nutzers identifiziert und korrigiert werden.
 
 
 ## [2023-02-05] - 2023-02-05
